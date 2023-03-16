@@ -1,0 +1,1774 @@
+[2022-04-24 12:26:02] Get-SnSpotter: MyPlaylist
+[2022-04-24 12:26:09] Playlist count: 82
+[2022-04-24 12:35:06] Initial Unique Count: 52997
+[2022-04-24 12:49:32] Filtering old and duplicate songs
+[2022-04-24 13:05:06] Creating Sn_MyPlaylist
+[2022-04-24 13:10:13] PlaylistSnapshot exists: True
+[2022-04-24 14:41:58] NewAdditions Count: 827
+[2022-04-24 14:59:54] Final Unique Count: 53824
+[2022-04-24 15:00:30] Making MyPlaylist playlist
+[2022-04-24 15:02:26] Playlist created. Name: 2022-04-23_MyPlaylist; Id: 1TBY1EVL4yhR46cwrSlDji
+[2022-04-24 15:21:58] Get-SnSpotter: BulkPlaylist
+[2022-04-24 15:21:58] Playlist count: 168
+[2022-04-24 15:21:58] Initial Unique Count: 71423
+[2022-04-24 15:26:40] Sn_BulkPlaylist items: 12913
+[2022-04-24 15:26:47] Filtering old and duplicate songs
+[2022-04-24 16:21:48] Creating Sn_BulkPlaylist
+[2022-04-24 16:25:02] Sn_BulkPlaylist exists: True
+[2022-04-24 16:46:14] NewAdditions Count: 1297
+[2022-04-24 16:48:03] Final Unique Count: 72720
+[2022-04-30 14:52:24] Get-SnSpotter: MyPlaylist
+[2022-04-30 14:52:24] Playlist count: 82
+[2022-04-30 14:52:24] Initial Unique Count: 53091
+[2022-04-30 14:54:06] Sn_MyPlaylist items: 7400
+[2022-04-30 14:54:06] Filtering old and duplicate songs
+[2022-04-30 14:59:12] Creating Sn_MyPlaylist
+[2022-04-30 15:00:00] Sn_MyPlaylist exists: True
+[2022-04-30 15:03:11] NewItems Count: 0
+[2022-04-30 16:27:24] NewItems Count: 816
+[2022-04-30 16:33:54] Final Unique Count: 53907
+[2022-04-30 16:45:12] Making MyPlaylist Spotify playlist
+[2022-04-30 16:45:28] Playlist created. Name: 2022-04-30_MyPlaylist; Id: 13nmlqhD29NuZbfdF4CzJW
+[2022-04-30 16:59:01] Get-SnSpotter: BulkPlaylist
+[2022-04-30 16:59:01] Playlist count: 168
+[2022-04-30 16:59:01] Initial Unique Count: 71876
+[2022-04-30 17:00:33] Sn_BulkPlaylist items: 12938
+[2022-04-30 17:00:33] Filtering old and duplicate songs
+[2022-04-30 17:08:09] Creating Sn_BulkPlaylist
+[2022-04-30 17:08:12] Sn_BulkPlaylist exists: True
+[2022-04-30 17:17:51] NewItems Count: 1193
+[2022-04-30 17:18:15] Final Unique Count: 73069
+[2022-05-07 17:11:08] Start Get-SnSpotter: MyPlaylist
+[2022-05-07 17:11:08] Playlist count: 82
+[2022-05-07 17:11:08] Initial Unique Count: 53907
+[2022-05-07 17:12:31] Sn_MyPlaylist items: 7358
+[2022-05-07 17:12:31] Filtering old and duplicate songs
+[2022-05-07 17:18:08] Creating Sn_MyPlaylist
+[2022-05-07 17:18:10] Sn_MyPlaylist exists: True
+[2022-05-07 17:32:44] UniqueItems Count: 838
+[2022-05-07 17:38:21] Final Unique Count: 54745
+[2022-05-07 17:38:22] End Get-SnSpotter: MyPlaylist
+[2022-05-07 17:41:17] Making MyPlaylist Spotify playlist
+[2022-05-07 17:41:18] Playlist created. Name: 2022-05-07_MyPlaylist; Id: 20O0Dymno96JWplic3zFyx
+[2022-05-07 17:44:23] Start Get-SnSpotter: BulkPlaylist
+[2022-05-07 17:44:23] Playlist count: 168
+[2022-05-07 17:44:23] Initial Unique Count: 73069
+[2022-05-07 17:44:50] Sn_BulkPlaylist items: 12698
+[2022-05-07 17:44:50] Filtering old and duplicate songs
+[2022-05-07 17:54:15] Creating Sn_BulkPlaylist
+[2022-05-07 17:54:17] Sn_BulkPlaylist exists: True
+[2022-05-07 17:55:28] UniqueItems Count: 1220
+[2022-05-07 17:56:48] Final Unique Count: 74289
+[2022-05-07 17:56:49] End Get-SnSpotter: BulkPlaylist
+[2022-05-14 15:54:01] Start Get-SnSpotter: BulkPlaylist
+[2022-05-14 15:54:01] Playlist count: 168
+[2022-05-14 15:54:01] Initial Unique Count: 74289
+[2022-05-14 15:54:05] Sn_BulkPlaylist items: 12697
+[2022-05-14 15:54:05] Adding IsNew property
+[2022-05-14 16:01:56] Creating Sn_BulkPlaylist
+[2022-05-14 16:01:59] Sn_BulkPlaylist exists: True
+[2022-05-14 16:02:00] Filtering UniqueItems
+[2022-05-14 16:02:00] UniqueItems Count: 1129
+[2022-05-14 16:02:01] Final Unique Count: 75418
+[2022-05-14 16:02:02] End Get-SnSpotter: BulkPlaylist
+[2022-05-14 16:07:47] Start Get-SnSpotter: MyPlaylist
+[2022-05-14 16:07:47] Playlist count: 82
+[2022-05-14 16:07:47] Initial UniqueTracks Count: 54745
+[2022-05-14 16:07:50] Sn_MyPlaylist items: 7352
+[2022-05-14 16:07:50] Adding IsNew property
+[2022-05-14 16:11:57] Creating Sn_MyPlaylist
+[2022-05-14 16:11:59] Sn_MyPlaylist exists: True
+[2022-05-14 16:11:59] Filtering UniqueItems
+[2022-05-14 16:12:00] UniqueItems Count: 809
+[2022-05-14 16:12:00] Final UniqueTracks Count: 55554
+[2022-05-14 16:12:00] End Get-SnSpotter: MyPlaylist
+[2022-05-14 16:21:22] Making 2022-05-14_MyPlaylist Spotify playlist
+[2022-05-14 16:21:23] Playlist created. Name: 2022-05-14_MyPlaylist; Id: 4fHC7RQdFdXO64SPqsZryc
+[2022-05-21 14:54:56] Start Get-SnSpotter: BulkPlaylist
+[2022-05-21 14:54:56] Playlist count: 168
+[2022-05-21 14:54:56] Initial UniqueTracks Count: 75418
+[2022-05-21 14:54:59] Sn_BulkPlaylist items: 12781
+[2022-05-21 14:54:59] Adding IsNew property
+[2022-05-21 15:02:48] Creating Sn_BulkPlaylist
+[2022-05-21 15:02:51] Sn_BulkPlaylist exists: True
+[2022-05-21 15:02:52] Filtering UniqueItems
+[2022-05-21 15:02:52] UniqueItems Count: 1137
+[2022-05-21 15:02:53] Final UniqueTracks Count: 76555
+[2022-05-21 15:02:53] End Get-SnSpotter: BulkPlaylist
+[2022-05-21 15:04:07] Start Get-SnSpotter: MyPlaylist
+[2022-05-21 15:04:07] Playlist count: 82
+[2022-05-21 15:04:07] Initial UniqueTracks Count: 55554
+[2022-05-21 15:04:11] Sn_MyPlaylist items: 7406
+[2022-05-21 15:04:11] Adding IsNew property
+[2022-05-21 15:07:33] Creating Sn_MyPlaylist
+[2022-05-21 15:07:34] Sn_MyPlaylist exists: True
+[2022-05-21 15:07:34] Filtering UniqueItems
+[2022-05-21 15:07:35] UniqueItems Count: 828
+[2022-05-21 15:07:35] Final UniqueTracks Count: 56382
+[2022-05-21 15:07:36] End Get-SnSpotter: MyPlaylist
+[2022-05-21 15:09:31] Making 2022-05-21_MyPlaylist Spotify playlist
+[2022-05-21 15:09:31] Playlist created. Name: 2022-05-21_MyPlaylist; Id: 0Remq6n4qQ9AYk3luJWaY7
+[2022-05-28 14:18:41] Start Get-SnSpotter: BulkPlaylist
+[2022-05-28 14:18:41] Playlist count: 198
+[2022-05-28 14:18:41] Initial UniqueTracks Count: 76555
+[2022-05-28 14:18:45] Sn_BulkPlaylist items: 14812
+[2022-05-28 14:18:45] Adding IsNew property
+[2022-05-28 14:26:46] Creating Sn_BulkPlaylist
+[2022-05-28 14:26:49] Sn_BulkPlaylist exists: True
+[2022-05-28 14:26:51] Filtering UniqueItems
+[2022-05-28 14:26:52] UniqueItems Count: 2385
+[2022-05-28 14:26:52] Final UniqueTracks Count: 78940
+[2022-05-28 14:26:53] End Get-SnSpotter: BulkPlaylist
+[2022-05-28 14:35:04] Start Get-SnSpotter: MyPlaylist
+[2022-05-28 14:35:04] Playlist count: 82
+[2022-05-28 14:35:04] Initial UniqueTracks Count: 56382
+[2022-05-28 14:35:08] Sn_MyPlaylist items: 7397
+[2022-05-28 14:35:08] Adding IsNew property
+[2022-05-28 14:37:46] Creating Sn_MyPlaylist
+[2022-05-28 14:37:47] Sn_MyPlaylist exists: True
+[2022-05-28 14:37:47] Filtering UniqueItems
+[2022-05-28 14:37:48] UniqueItems Count: 754
+[2022-05-28 14:37:48] Final UniqueTracks Count: 57136
+[2022-05-28 14:37:48] End Get-SnSpotter: MyPlaylist
+[2022-05-28 14:45:01] Making 2022-05-28_MyPlaylist Spotify playlist
+[2022-05-28 14:45:02] Playlist created. Name: 2022-05-28_MyPlaylist; Id: 6NTVxU5DnjlBdlUgRE8txk
+[2022-05-28 14:49:36] Start Get-SnSpotter: WeeklyCharts
+[2022-05-28 14:49:36] Playlist count: 58
+[2022-05-28 14:49:36] Initial UniqueTracks Count: 0
+[2022-05-28 14:49:40] Sn_WeeklyCharts items: 2850
+[2022-05-28 14:49:40] Adding IsNew property
+[2022-05-28 14:49:40] Creating Sn_WeeklyCharts
+[2022-05-28 14:49:41] Sn_WeeklyCharts exists: True
+[2022-05-28 14:49:41] Filtering UniqueItems
+[2022-05-28 14:49:41] UniqueItems Count: 1399
+[2022-05-28 14:49:41] Final UniqueTracks Count: 1399
+[2022-05-28 14:49:41] End Get-SnSpotter: WeeklyCharts
+[2022-05-28 14:50:34] Making 2022-05-28_WeeklyCharts Spotify playlist
+[2022-05-28 14:50:34] Playlist created. Name: 2022-05-28_WeeklyCharts; Id: 6rJO9ZAskqDQROi2rOAKNI
+[2022-06-04 13:31:36] Start Get-SnSpotter: BulkPlaylist
+[2022-06-04 13:31:36] Playlist count: 196
+[2022-06-04 13:31:36] Initial UniqueTracks Count: 78940
+[2022-06-04 13:31:39] Sn_BulkPlaylist items: 14754
+[2022-06-04 13:31:39] Adding IsNew property
+[2022-06-04 13:39:18] Creating Sn_BulkPlaylist
+[2022-06-04 13:39:21] Sn_BulkPlaylist exists: True
+[2022-06-04 13:39:23] Filtering UniqueItems
+[2022-06-04 13:39:23] UniqueItems Count: 1159
+[2022-06-04 13:39:23] Final UniqueTracks Count: 80099
+[2022-06-04 13:39:24] End Get-SnSpotter: BulkPlaylist
+[2022-06-04 13:42:35] Start Get-SnSpotter: WeeklyCharts
+[2022-06-04 13:42:35] Playlist count: 57
+[2022-06-04 13:42:35] Initial UniqueTracks Count: 1399
+[2022-06-04 13:42:39] Sn_WeeklyCharts items: 2850
+[2022-06-04 13:42:39] Adding IsNew property
+[2022-06-04 13:42:40] Creating Sn_WeeklyCharts
+[2022-06-04 13:42:40] Sn_WeeklyCharts exists: True
+[2022-06-04 13:42:41] Filtering UniqueItems
+[2022-06-04 13:42:41] UniqueItems Count: 239
+[2022-06-04 13:42:41] Final UniqueTracks Count: 1638
+[2022-06-04 13:42:41] End Get-SnSpotter: WeeklyCharts
+[2022-06-04 13:45:20] Making 2022-06-04_WeeklyCharts Spotify playlist
+[2022-06-04 13:45:21] Playlist created. Name: 2022-06-04_WeeklyCharts; Id: 1HFymEz2VorB9QBxcmTnKR
+[2022-06-04 13:45:56] Start Get-SnSpotter: MyPlaylist
+[2022-06-04 13:45:56] Playlist count: 82
+[2022-06-04 13:45:56] Initial UniqueTracks Count: 57136
+[2022-06-04 13:45:59] Sn_MyPlaylist items: 7365
+[2022-06-04 13:45:59] Adding IsNew property
+[2022-06-04 13:48:57] Creating Sn_MyPlaylist
+[2022-06-04 13:48:59] Sn_MyPlaylist exists: True
+[2022-06-04 13:48:59] Filtering UniqueItems
+[2022-06-04 13:49:00] UniqueItems Count: 648
+[2022-06-04 13:49:00] Final UniqueTracks Count: 57784
+[2022-06-04 13:49:00] End Get-SnSpotter: MyPlaylist
+[2022-06-04 13:56:27] Making 2022-06-04_MyPlaylist Spotify playlist
+[2022-06-04 13:56:28] Playlist created. Name: 2022-06-04_MyPlaylist; Id: 1wlZHCCLFl9tfqiUTheIXJ
+[2022-06-11 14:38:21] Start Get-SnSpotter: BulkPlaylist
+[2022-06-11 14:38:21] Playlist count: 198
+[2022-06-11 14:38:21] Initial UniqueTracks Count: 
+[2022-06-11 14:40:46] Start Get-SnSpotter: BulkPlaylist
+[2022-06-11 14:40:46] Playlist count: 198
+[2022-06-11 14:40:46] Initial UniqueTracks Count: 80099
+[2022-06-11 14:40:50] Sn_BulkPlaylist items: 14836
+[2022-06-11 14:40:50] Adding IsNew property
+[2022-06-11 14:40:52] Future Funk[37i9dQZF1DXbjGYBfEmjR5] not in 2022-06-04_Sn_BulkPlaylist.json; first appearance
+[2022-06-11 14:40:52] Nu-Disco[37i9dQZF1DXattPCMpISJh] not in 2022-06-04_Sn_BulkPlaylist.json; first appearance
+[2022-06-11 14:40:52] Adding IsUnique property
+[2022-06-11 14:49:14] Creating Sn_BulkPlaylist
+[2022-06-11 14:49:17] Sn_BulkPlaylist exists: True
+[2022-06-11 14:49:18] Filtering UniqueItems
+[2022-06-11 14:49:19] UniqueItems Count: 1463
+[2022-06-11 14:49:19] Final UniqueTracks Count: 81562
+[2022-06-11 14:49:20] Convert Sn_BulkPlaylist to Tsv
+[2022-06-11 14:49:24] End Get-SnSpotter: BulkPlaylist
+[2022-06-11 15:41:21] Start Get-SnSpotter: MyPlaylist
+[2022-06-11 15:41:21] Playlist count: 84
+[2022-06-11 15:41:21] Initial UniqueTracks Count: 57784
+[2022-06-11 15:45:25] Sn_MyPlaylist items: 7654
+[2022-06-11 15:45:25] Adding IsUnique property
+[2022-06-11 15:45:25] Creating Sn_MyPlaylist
+[2022-06-11 15:45:25] Sn_MyPlaylist exists: True
+[2022-06-11 15:45:25] Filtering UniqueItems
+[2022-06-11 15:45:25] UniqueItems Count: 1075
+[2022-06-11 15:45:25] Final UniqueTracks Count: 58859
+[2022-06-11 15:45:26] Convert Sn_MyPlaylist to Tsv
+[2022-06-11 15:45:26] End Get-SnSpotter: MyPlaylist
+[2022-06-11 16:10:44] Making 2022-06-11_MyPlaylist Spotify playlist
+[2022-06-11 16:10:45] Playlist created. Name: 2022-06-11_MyPlaylist; Id: 4V5EY59RImmIOA2bGCtcw2
+[2022-06-11 16:11:49] Start Get-SnSpotter: WeeklyCharts
+[2022-06-11 16:11:49] Playlist count: 57
+[2022-06-11 16:11:49] Initial UniqueTracks Count: 1638
+[2022-06-11 16:12:01] Sn_WeeklyCharts items: 2850
+[2022-06-11 16:12:01] Adding IsUnique property
+[2022-06-11 16:12:02] Creating Sn_WeeklyCharts
+[2022-06-11 16:12:03] Sn_WeeklyCharts exists: True
+[2022-06-11 16:12:03] Filtering UniqueItems
+[2022-06-11 16:12:03] UniqueItems Count: 186
+[2022-06-11 16:12:03] Final UniqueTracks Count: 1824
+[2022-06-11 16:12:03] Convert Sn_WeeklyCharts to Tsv
+[2022-06-11 16:12:05] End Get-SnSpotter: WeeklyCharts
+[2022-06-18 15:41:38] Start Get-SnSpotter: MyPlaylist
+[2022-06-18 15:41:38] Playlist count: 84
+[2022-06-18 15:41:38] Initial UniqueTracks Count: 52179
+[2022-06-18 15:41:39] Sn_MyPlaylist items: 0
+[2022-06-18 15:41:39] Adding IsUnique property
+[2022-06-18 15:41:39] Creating Sn_MyPlaylist
+[2022-06-18 15:41:39] Sn_MyPlaylist exists: True
+[2022-06-18 15:41:39] Filtering UniqueItems
+[2022-06-18 15:41:39] UniqueItems Count: 0
+[2022-06-18 15:41:39] Final UniqueTracks Count: 52179
+[2022-06-18 15:41:40] Convert Sn_MyPlaylist to Tsv
+[2022-06-18 15:42:17] Start Get-SnSpotter: BulkPlaylist
+[2022-06-18 15:42:17] Playlist count: 198
+[2022-06-18 15:42:17] Initial UniqueTracks Count: 81562
+[2022-06-18 15:42:23] Sn_BulkPlaylist items: 14909
+[2022-06-18 15:42:23] Adding IsNew property
+[2022-06-18 15:42:25] Adding IsUnique property
+[2022-06-18 15:52:22] Creating Sn_BulkPlaylist
+[2022-06-18 15:52:24] Sn_BulkPlaylist exists: True
+[2022-06-18 15:52:26] Filtering UniqueItems
+[2022-06-18 15:52:26] UniqueItems Count: 1297
+[2022-06-18 15:52:26] Final UniqueTracks Count: 82859
+[2022-06-18 15:52:27] Convert Sn_BulkPlaylist to Tsv
+[2022-06-18 15:52:32] End Get-SnSpotter: BulkPlaylist
+[2022-06-18 17:22:06] Start Get-SnSpotter: MyPlaylist
+[2022-06-18 17:22:06] Playlist count: 84
+[2022-06-18 17:22:06] Initial UniqueTracks Count: 58859
+[2022-06-18 17:22:18] Sn_MyPlaylist items: 7718
+[2022-06-18 17:22:18] Adding IsUnique property
+[2022-06-18 17:26:18] Creating Sn_MyPlaylist
+[2022-06-18 17:26:20] Sn_MyPlaylist exists: True
+[2022-06-18 17:26:20] Filtering UniqueItems
+[2022-06-18 17:26:21] UniqueItems Count: 859
+[2022-06-18 17:26:21] Final UniqueTracks Count: 59718
+[2022-06-18 17:26:21] Convert Sn_MyPlaylist to Tsv
+[2022-06-18 17:26:24] End Get-SnSpotter: MyPlaylist
+[2022-06-18 17:32:03] Making 2022-06-18_MyPlaylist Spotify playlist
+[2022-06-18 17:32:04] Playlist created. Name: 2022-06-18_MyPlaylist; Id: 2bLT36WuQfn1DuG80PCBnO
+[2022-06-18 17:34:12] Start Get-SnSpotter: WeeklyCharts
+[2022-06-18 17:34:12] Playlist count: 57
+[2022-06-18 17:34:12] Initial UniqueTracks Count: 1824
+[2022-06-18 17:34:25] Sn_WeeklyCharts items: 2850
+[2022-06-18 17:34:25] Adding IsUnique property
+[2022-06-18 17:34:27] Creating Sn_WeeklyCharts
+[2022-06-18 17:34:28] Sn_WeeklyCharts exists: True
+[2022-06-18 17:34:28] Filtering UniqueItems
+[2022-06-18 17:34:28] UniqueItems Count: 159
+[2022-06-18 17:34:28] Final UniqueTracks Count: 1983
+[2022-06-18 17:34:28] Convert Sn_WeeklyCharts to Tsv
+[2022-06-18 17:34:29] End Get-SnSpotter: WeeklyCharts
+[2022-06-18 17:36:35] Making 2022-06-18_WeeklyCharts Spotify playlist
+[2022-06-18 17:36:35] Playlist created. Name: 2022-06-18_WeeklyCharts; Id: 4u6cYYDnL3W8daqQplBqZQ
+[2022-06-25 12:28:56] Start Get-SnSpotter: BulkPlaylist
+[2022-06-25 12:28:56] Playlist count: 198
+[2022-06-25 12:28:56] Initial UniqueTracks Count: 82859
+[2022-06-25 12:29:03] Sn_BulkPlaylist items: 14863
+[2022-06-25 12:29:03] Adding IsNew property
+[2022-06-25 12:29:06] Adding IsUnique property
+[2022-06-25 12:39:52] Creating Sn_BulkPlaylist
+[2022-06-25 12:39:55] Sn_BulkPlaylist exists: True
+[2022-06-25 12:39:56] Filtering UniqueItems
+[2022-06-25 12:39:57] UniqueItems Count: 1122
+[2022-06-25 12:39:57] Final UniqueTracks Count: 83981
+[2022-06-25 12:39:58] Convert Sn_BulkPlaylist to Tsv
+[2022-06-25 12:40:04] End Get-SnSpotter: BulkPlaylist
+[2022-06-25 12:41:47] Start Get-SnSpotter: MyPlaylist
+[2022-06-25 12:41:47] Playlist count: 84
+[2022-06-25 12:41:47] Initial UniqueTracks Count: 59718
+[2022-06-25 12:42:02] Sn_MyPlaylist items: 7671
+[2022-06-25 12:42:02] Adding IsUnique property
+[2022-06-25 12:46:21] Creating Sn_MyPlaylist
+[2022-06-25 12:46:23] Sn_MyPlaylist exists: True
+[2022-06-25 12:46:24] Filtering UniqueItems
+[2022-06-25 12:46:24] UniqueItems Count: 671
+[2022-06-25 12:46:24] Final UniqueTracks Count: 60389
+[2022-06-25 12:46:25] Convert Sn_MyPlaylist to Tsv
+[2022-06-25 12:46:27] End Get-SnSpotter: MyPlaylist
+[2022-06-25 12:47:34] Making 2022-06-25_MyPlaylist Spotify playlist
+[2022-06-25 12:47:35] Playlist created. Name: 2022-06-25_MyPlaylist; Id: 502w32g4ErLXY5ya8P9ff2
+[2022-06-25 12:49:08] Start Get-SnSpotter: WeeklyCharts
+[2022-06-25 12:49:08] Playlist count: 57
+[2022-06-25 12:49:08] Initial UniqueTracks Count: 1983
+[2022-06-25 12:49:23] Sn_WeeklyCharts items: 2850
+[2022-06-25 12:49:23] Adding IsUnique property
+[2022-06-25 12:49:26] Creating Sn_WeeklyCharts
+[2022-06-25 12:49:27] Sn_WeeklyCharts exists: True
+[2022-06-25 12:49:27] Filtering UniqueItems
+[2022-06-25 12:49:27] UniqueItems Count: 152
+[2022-06-25 12:49:27] Final UniqueTracks Count: 2135
+[2022-06-25 12:49:27] Convert Sn_WeeklyCharts to Tsv
+[2022-06-25 12:49:28] End Get-SnSpotter: WeeklyCharts
+[2022-07-02 11:34:35] Start Get-SnSpotter: BulkPlaylist
+[2022-07-02 11:34:35] Playlist count: 198
+[2022-07-02 11:34:35] Initial UniqueTracks Count: 83981
+[2022-07-02 11:34:40] Sn_BulkPlaylist items: 14914
+[2022-07-02 11:34:40] Adding IsNew property
+[2022-07-02 11:34:40] Dancehall Official[37i9dQZF1DXan38dNVDdl4] not in 2022-06-25_Sn_BulkPlaylist.json
+[2022-07-02 11:34:42] Adding IsUnique property
+[2022-07-02 11:46:29] Creating Sn_BulkPlaylist
+[2022-07-02 11:46:32] Sn_BulkPlaylist exists: True
+[2022-07-02 11:46:33] Filtering UniqueItems
+[2022-07-02 11:46:34] UniqueItems Count: 1274
+[2022-07-02 11:46:34] Final UniqueTracks Count: 85255
+[2022-07-02 11:46:35] Convert Sn_BulkPlaylist to Tsv
+[2022-07-02 11:46:40] End Get-SnSpotter: BulkPlaylist
+[2022-07-02 11:48:59] Start Get-SnSpotter: MyPlaylist
+[2022-07-02 11:48:59] Playlist count: 84
+[2022-07-02 11:48:59] Initial UniqueTracks Count: 60389
+[2022-07-02 11:49:14] Sn_MyPlaylist items: 7713
+[2022-07-02 11:49:14] Adding IsUnique property
+[2022-07-02 11:53:31] Creating Sn_MyPlaylist
+[2022-07-02 11:53:33] Sn_MyPlaylist exists: True
+[2022-07-02 11:53:34] Filtering UniqueItems
+[2022-07-02 11:53:34] UniqueItems Count: 856
+[2022-07-02 11:53:34] Final UniqueTracks Count: 61245
+[2022-07-02 11:53:35] Convert Sn_MyPlaylist to Tsv
+[2022-07-02 11:53:38] End Get-SnSpotter: MyPlaylist
+[2022-07-02 12:01:24] Making 2022-07-02_MyPlaylist Spotify playlist
+[2022-07-02 12:01:25] Playlist created. Name: 2022-07-02_MyPlaylist; Id: 0dxrk1Hoia9D82dGWJOhrX
+[2022-07-02 12:02:55] Start Get-SnSpotter: WeeklyCharts
+[2022-07-02 12:02:55] Playlist count: 57
+[2022-07-02 12:02:55] Initial UniqueTracks Count: 2135
+[2022-07-02 12:03:10] Sn_WeeklyCharts items: 2800
+[2022-07-02 12:03:10] Adding IsUnique property
+[2022-07-02 12:03:14] Creating Sn_WeeklyCharts
+[2022-07-02 12:03:14] Sn_WeeklyCharts exists: True
+[2022-07-02 12:03:15] Filtering UniqueItems
+[2022-07-02 12:03:15] UniqueItems Count: 166
+[2022-07-02 12:03:15] Final UniqueTracks Count: 2301
+[2022-07-02 12:03:15] Convert Sn_WeeklyCharts to Tsv
+[2022-07-02 12:03:16] End Get-SnSpotter: WeeklyCharts
+[2022-07-09 11:00:05] Start Get-SnSpotter: BulkPlaylist
+[2022-07-09 11:00:05] Playlist count: 198
+[2022-07-09 11:00:05] Initial UniqueTracks Count: 85255
+[2022-07-09 11:00:11] Sn_BulkPlaylist items: 14797
+[2022-07-09 11:00:11] Adding IsNew property
+[2022-07-09 11:00:12] Baila Reggaeton[37i9dQZF1DWY7IeIP1cdjF] not in 2022-07-02_Sn_BulkPlaylist.json
+[2022-07-09 11:00:13] Top Songs - Taiwan[37i9dQZEVXbMVY2FDHm6NN] not in 2022-07-02_Sn_BulkPlaylist.json
+[2022-07-09 11:00:14] Adding IsUnique property
+[2022-07-09 11:09:16] Creating Sn_BulkPlaylist
+[2022-07-09 11:09:19] Sn_BulkPlaylist exists: True
+[2022-07-09 11:09:20] Filtering UniqueItems
+[2022-07-09 11:09:21] UniqueItems Count: 1202
+[2022-07-09 11:09:21] Final UniqueTracks Count: 86457
+[2022-07-09 11:09:22] Convert Sn_BulkPlaylist to Tsv
+[2022-07-09 11:09:27] End Get-SnSpotter: BulkPlaylist
+[2022-07-09 11:09:27] Start Get-SnSpotter: MyPlaylist
+[2022-07-09 11:09:27] Playlist count: 84
+[2022-07-09 11:09:27] Initial UniqueTracks Count: 61245
+[2022-07-09 11:09:40] Sn_MyPlaylist items: 7631
+[2022-07-09 11:09:40] Adding IsUnique property
+[2022-07-09 11:13:03] Creating Sn_MyPlaylist
+[2022-07-09 11:13:05] Sn_MyPlaylist exists: True
+[2022-07-09 11:13:05] Filtering UniqueItems
+[2022-07-09 11:13:05] UniqueItems Count: 770
+[2022-07-09 11:13:05] Final UniqueTracks Count: 62015
+[2022-07-09 11:13:06] Convert Sn_MyPlaylist to Tsv
+[2022-07-09 11:13:08] End Get-SnSpotter: MyPlaylist
+[2022-07-09 11:13:08] Making 2022-07-09_MyPlaylist Spotify playlist
+[2022-07-09 11:13:09] Playlist created. Name: 2022-07-09_MyPlaylist; Id: 7J3DCTxmPzGMyRAM6S7QhL
+[2022-07-09 11:13:17] Start Get-SnSpotter: WeeklyCharts
+[2022-07-09 11:13:17] Playlist count: 57
+[2022-07-09 11:13:17] Initial UniqueTracks Count: 2301
+[2022-07-09 11:13:29] Sn_WeeklyCharts items: 2850
+[2022-07-09 11:13:29] Adding IsUnique property
+[2022-07-09 11:13:31] Creating Sn_WeeklyCharts
+[2022-07-09 11:13:32] Sn_WeeklyCharts exists: True
+[2022-07-09 11:13:32] Filtering UniqueItems
+[2022-07-09 11:13:32] UniqueItems Count: 141
+[2022-07-09 11:13:32] Final UniqueTracks Count: 2442
+[2022-07-09 11:13:32] Convert Sn_WeeklyCharts to Tsv
+[2022-07-09 11:13:34] End Get-SnSpotter: WeeklyCharts
+[2022-07-16 14:41:52] Start Get-SnSpotter: BulkPlaylist
+[2022-07-16 14:41:52] Playlist count: 198
+[2022-07-16 14:41:52] Initial UniqueTracks Count: 86457
+[2022-07-16 14:41:56] Sn_BulkPlaylist items: 14513
+[2022-07-16 14:41:56] Adding IsNew property
+[2022-07-16 14:41:59] Adding IsUnique property
+[2022-07-16 14:54:06] Creating Sn_BulkPlaylist
+[2022-07-16 14:54:09] Sn_BulkPlaylist exists: True
+[2022-07-16 14:54:11] Filtering UniqueItems
+[2022-07-16 14:54:12] UniqueItems Count: 1182
+[2022-07-16 14:54:12] Final UniqueTracks Count: 87639
+[2022-07-16 14:54:13] Convert Sn_BulkPlaylist to Tsv
+[2022-07-16 14:54:18] End Get-SnSpotter: BulkPlaylist
+[2022-07-16 14:56:49] Start Get-SnSpotter: MyPlaylist
+[2022-07-16 14:56:49] Playlist count: 84
+[2022-07-16 14:56:49] Initial UniqueTracks Count: 62015
+[2022-07-16 14:57:04] Sn_MyPlaylist items: 7507
+[2022-07-16 14:57:04] Adding IsUnique property
+[2022-07-16 15:01:28] Creating Sn_MyPlaylist
+[2022-07-16 15:01:30] Sn_MyPlaylist exists: True
+[2022-07-16 15:01:30] Filtering UniqueItems
+[2022-07-16 15:01:30] UniqueItems Count: 775
+[2022-07-16 15:01:30] Final UniqueTracks Count: 62790
+[2022-07-16 15:01:31] Convert Sn_MyPlaylist to Tsv
+[2022-07-16 15:01:34] End Get-SnSpotter: MyPlaylist
+[2022-07-16 15:05:37] Making 2022-07-16_MyPlaylist Spotify playlist
+[2022-07-16 15:05:38] Playlist created. Name: 2022-07-16_MyPlaylist; Id: 6Pk83CLGwtVsjVdmJLSwHw
+[2022-07-16 15:09:39] Start Get-SnSpotter: WeeklyCharts
+[2022-07-16 15:09:39] Playlist count: 57
+[2022-07-16 15:09:39] Initial UniqueTracks Count: 2442
+[2022-07-16 15:09:51] Sn_WeeklyCharts items: 2850
+[2022-07-16 15:09:51] Adding IsUnique property
+[2022-07-16 15:09:54] Creating Sn_WeeklyCharts
+[2022-07-16 15:09:54] Sn_WeeklyCharts exists: True
+[2022-07-16 15:09:55] Filtering UniqueItems
+[2022-07-16 15:09:55] UniqueItems Count: 150
+[2022-07-16 15:09:55] Final UniqueTracks Count: 2592
+[2022-07-16 15:09:55] Convert Sn_WeeklyCharts to Tsv
+[2022-07-16 15:09:56] End Get-SnSpotter: WeeklyCharts
+[2022-07-23 13:24:03] Start Get-SnSpotter: BulkPlaylist
+[2022-07-23 13:24:03] Playlist count: 198
+[2022-07-23 13:24:03] Initial UniqueTracks Count: 87639
+[2022-07-23 13:24:08] Sn_BulkPlaylist items: 14407
+[2022-07-23 13:24:08] Adding IsNew property
+[2022-07-23 13:24:11] Adding IsUnique property
+[2022-07-23 13:33:55] Creating Sn_BulkPlaylist
+[2022-07-23 13:33:59] Sn_BulkPlaylist exists: True
+[2022-07-23 13:34:00] Filtering UniqueItems
+[2022-07-23 13:34:01] UniqueItems Count: 1207
+[2022-07-23 13:34:01] Final UniqueTracks Count: 88846
+[2022-07-23 13:34:02] Convert Sn_BulkPlaylist to Tsv
+[2022-07-23 13:34:06] End Get-SnSpotter: BulkPlaylist
+[2022-07-23 13:34:07] Start Get-SnSpotter: MyPlaylist
+[2022-07-23 13:34:07] Playlist count: 84
+[2022-07-23 13:34:07] Initial UniqueTracks Count: 62790
+[2022-07-23 13:34:21] Sn_MyPlaylist items: 7389
+[2022-07-23 13:34:21] Adding IsUnique property
+[2022-07-23 13:37:58] Creating Sn_MyPlaylist
+[2022-07-23 13:38:00] Sn_MyPlaylist exists: True
+[2022-07-23 13:38:00] Filtering UniqueItems
+[2022-07-23 13:38:01] UniqueItems Count: 772
+[2022-07-23 13:38:01] Final UniqueTracks Count: 63562
+[2022-07-23 13:38:01] Convert Sn_MyPlaylist to Tsv
+[2022-07-23 13:38:03] End Get-SnSpotter: MyPlaylist
+[2022-07-23 13:38:04] Making 2022-07-23_MyPlaylist Spotify playlist
+[2022-07-23 13:38:04] Playlist created. Name: 2022-07-23_MyPlaylist; Id: 2GQtqJyJJUNjoCRPUTPVsa
+[2022-07-23 13:38:12] Start Get-SnSpotter: WeeklyCharts
+[2022-07-23 13:38:12] Playlist count: 57
+[2022-07-23 13:38:12] Initial UniqueTracks Count: 2592
+[2022-07-23 13:38:24] Sn_WeeklyCharts items: 2850
+[2022-07-23 13:38:24] Adding IsUnique property
+[2022-07-23 13:38:27] Creating Sn_WeeklyCharts
+[2022-07-23 13:38:28] Sn_WeeklyCharts exists: True
+[2022-07-23 13:38:28] Filtering UniqueItems
+[2022-07-23 13:38:28] UniqueItems Count: 146
+[2022-07-23 13:38:28] Final UniqueTracks Count: 2738
+[2022-07-23 13:38:28] Convert Sn_WeeklyCharts to Tsv
+[2022-07-23 13:38:30] End Get-SnSpotter: WeeklyCharts
+[2022-07-30 13:34:40] Start Get-SnSpotter: BulkPlaylist
+[2022-07-30 13:34:40] Playlist count: 198
+[2022-07-30 13:34:40] Initial UniqueTracks Count: 88846
+[2022-07-30 13:34:44] Sn_BulkPlaylist items: 14383
+[2022-07-30 13:34:44] Adding IsNew property
+[2022-07-30 13:34:46] Adding IsUnique property
+[2022-07-30 13:44:27] Creating Sn_BulkPlaylist
+[2022-07-30 13:44:30] Sn_BulkPlaylist exists: True
+[2022-07-30 13:44:31] Filtering UniqueItems
+[2022-07-30 13:44:32] UniqueItems Count: 1987
+[2022-07-30 13:44:32] Final UniqueTracks Count: 90833
+[2022-07-30 13:44:33] Convert Sn_BulkPlaylist to Tsv
+[2022-07-30 13:44:37] End Get-SnSpotter: BulkPlaylist
+[2022-07-30 13:48:26] Start Get-SnSpotter: MyPlaylist
+[2022-07-30 13:48:26] Playlist count: 84
+[2022-07-30 13:48:26] Initial UniqueTracks Count: 63504
+[2022-07-30 13:48:38] Sn_MyPlaylist items: 7350
+[2022-07-30 13:48:38] Adding IsUnique property
+[2022-07-30 13:51:59] Creating Sn_MyPlaylist
+[2022-07-30 13:52:01] Sn_MyPlaylist exists: True
+[2022-07-30 13:52:02] Filtering UniqueItems
+[2022-07-30 13:52:02] UniqueItems Count: 1324
+[2022-07-30 13:52:02] Final UniqueTracks Count: 64828
+[2022-07-30 13:52:03] Convert Sn_MyPlaylist to Tsv
+[2022-07-30 13:52:05] End Get-SnSpotter: MyPlaylist
+[2022-07-30 13:55:33] Start Get-SnSpotter: WeeklyCharts
+[2022-07-30 13:55:33] Playlist count: 57
+[2022-07-30 13:55:33] Initial UniqueTracks Count: 2738
+[2022-07-30 13:55:45] Sn_WeeklyCharts items: 2850
+[2022-07-30 13:55:45] Adding IsUnique property
+[2022-07-30 13:55:49] Creating Sn_WeeklyCharts
+[2022-07-30 13:55:49] Sn_WeeklyCharts exists: True
+[2022-07-30 13:55:50] Filtering UniqueItems
+[2022-07-30 13:55:50] UniqueItems Count: 130
+[2022-07-30 13:55:50] Final UniqueTracks Count: 2868
+[2022-07-30 13:55:50] Convert Sn_WeeklyCharts to Tsv
+[2022-07-30 13:55:51] End Get-SnSpotter: WeeklyCharts
+[2022-07-30 14:06:44] Playlist created. Name: 2022-07-30_MyPlaylist; Id: 53EtVtXBfAIW3qBO1vAqsb
+[2022-08-06 13:12:47] Start Get-SnSpotter: BulkPlaylist
+[2022-08-06 13:12:47] Playlist count: 198
+[2022-08-06 13:12:47] Initial UniqueTracks Count: 90833
+[2022-08-06 13:12:53] Sn_BulkPlaylist items: 14555
+[2022-08-06 13:12:53] Adding IsNew property
+[2022-08-06 13:12:56] Adding IsUnique property
+[2022-08-06 13:23:25] Creating Sn_BulkPlaylist
+[2022-08-06 13:23:28] Sn_BulkPlaylist exists: True
+[2022-08-06 13:23:30] Filtering UniqueItems
+[2022-08-06 13:23:30] UniqueItems Count: 1168
+[2022-08-06 13:23:30] Final UniqueTracks Count: 92001
+[2022-08-06 13:23:31] Convert Sn_BulkPlaylist to Tsv
+[2022-08-06 13:23:35] End Get-SnSpotter: BulkPlaylist
+[2022-08-06 13:23:36] Start Get-SnSpotter: MyPlaylist
+[2022-08-06 13:23:36] Playlist count: 84
+[2022-08-06 13:23:36] Initial UniqueTracks Count: 64828
+[2022-08-06 13:23:50] Sn_MyPlaylist items: 7437
+[2022-08-06 13:23:50] Adding IsUnique property
+[2022-08-06 13:27:46] Creating Sn_MyPlaylist
+[2022-08-06 13:27:47] Sn_MyPlaylist exists: True
+[2022-08-06 13:27:48] Filtering UniqueItems
+[2022-08-06 13:27:48] UniqueItems Count: 811
+[2022-08-06 13:27:48] Final UniqueTracks Count: 65639
+[2022-08-06 13:27:49] Convert Sn_MyPlaylist to Tsv
+[2022-08-06 13:27:51] End Get-SnSpotter: MyPlaylist
+[2022-08-06 13:27:51] Making 2022-08-06_MyPlaylist Spotify playlist
+[2022-08-06 13:27:51] Playlist created. Name: 2022-08-06_MyPlaylist; Id: 24ung72GntMunV5oQPDWoO
+[2022-08-06 13:28:00] Start Get-SnSpotter: WeeklyCharts
+[2022-08-06 13:28:00] Playlist count: 57
+[2022-08-06 13:28:00] Initial UniqueTracks Count: 2868
+[2022-08-06 13:28:14] Sn_WeeklyCharts items: 2850
+[2022-08-06 13:28:14] Adding IsUnique property
+[2022-08-06 13:28:20] Creating Sn_WeeklyCharts
+[2022-08-06 13:28:21] Sn_WeeklyCharts exists: True
+[2022-08-06 13:28:21] Filtering UniqueItems
+[2022-08-06 13:28:21] UniqueItems Count: 127
+[2022-08-06 13:28:21] Final UniqueTracks Count: 2995
+[2022-08-06 13:28:21] Convert Sn_WeeklyCharts to Tsv
+[2022-08-06 13:28:22] End Get-SnSpotter: WeeklyCharts
+[2022-08-13 12:04:23] Start Get-SnSpotter: BulkPlaylist
+[2022-08-13 12:04:23] Playlist count: 198
+[2022-08-13 12:04:23] Initial UniqueTracks Count: 92001
+[2022-08-13 12:04:29] Sn_BulkPlaylist items: 14478
+[2022-08-13 12:04:29] Adding IsNew property
+[2022-08-13 12:04:32] Adding IsUnique property
+[2022-08-13 12:15:24] Creating Sn_BulkPlaylist
+[2022-08-13 12:15:27] Sn_BulkPlaylist exists: True
+[2022-08-13 12:15:29] Filtering UniqueItems
+[2022-08-13 12:15:29] UniqueItems Count: 1153
+[2022-08-13 12:15:29] Final UniqueTracks Count: 93154
+[2022-08-13 12:15:30] Convert Sn_BulkPlaylist to Tsv
+[2022-08-13 12:15:34] End Get-SnSpotter: BulkPlaylist
+[2022-08-13 12:15:35] Start Get-SnSpotter: MyPlaylist
+[2022-08-13 12:15:35] Playlist count: 79
+[2022-08-13 12:15:35] Initial UniqueTracks Count: 65639
+[2022-08-13 12:15:47] Sn_MyPlaylist items: 7191
+[2022-08-13 12:15:47] Adding IsUnique property
+[2022-08-13 12:20:06] Creating Sn_MyPlaylist
+[2022-08-13 12:20:08] Sn_MyPlaylist exists: True
+[2022-08-13 12:20:08] Filtering UniqueItems
+[2022-08-13 12:20:08] UniqueItems Count: 724
+[2022-08-13 12:20:09] Final UniqueTracks Count: 66363
+[2022-08-13 12:20:09] Convert Sn_MyPlaylist to Tsv
+[2022-08-13 12:20:11] End Get-SnSpotter: MyPlaylist
+[2022-08-13 12:20:11] Making 2022-08-13_MyPlaylist Spotify playlist
+[2022-08-13 12:20:12] Playlist created. Name: 2022-08-13_MyPlaylist; Id: 5pgNEHuReP5WAJZShzVyZs
+[2022-08-13 12:20:20] Start Get-SnSpotter: WeeklyCharts
+[2022-08-13 12:20:20] Playlist count: 57
+[2022-08-13 12:20:20] Initial UniqueTracks Count: 2995
+[2022-08-13 12:20:32] Sn_WeeklyCharts items: 2850
+[2022-08-13 12:20:32] Adding IsUnique property
+[2022-08-13 12:20:36] Creating Sn_WeeklyCharts
+[2022-08-13 12:20:37] Sn_WeeklyCharts exists: True
+[2022-08-13 12:20:37] Filtering UniqueItems
+[2022-08-13 12:20:37] UniqueItems Count: 145
+[2022-08-13 12:20:37] Final UniqueTracks Count: 3140
+[2022-08-13 12:20:37] Convert Sn_WeeklyCharts to Tsv
+[2022-08-13 12:20:38] End Get-SnSpotter: WeeklyCharts
+[2022-08-20 11:29:09] Start Get-SnSpotter: BulkPlaylist
+[2022-08-20 11:29:09] Playlist count: 198
+[2022-08-20 11:29:09] Initial UniqueTracks Count: 93154
+[2022-08-20 11:29:14] Sn_BulkPlaylist items: 14561
+[2022-08-20 11:29:14] Adding IsNew property
+[2022-08-20 11:29:18] Adding IsUnique property
+[2022-08-20 11:40:56] Creating Sn_BulkPlaylist
+[2022-08-20 11:40:59] Sn_BulkPlaylist exists: True
+[2022-08-20 11:41:00] Filtering UniqueItems
+[2022-08-20 11:41:01] UniqueItems Count: 1077
+[2022-08-20 11:41:01] Final UniqueTracks Count: 94231
+[2022-08-20 11:41:02] Convert Sn_BulkPlaylist to Tsv
+[2022-08-20 11:41:07] End Get-SnSpotter: BulkPlaylist
+[2022-08-20 11:41:08] Start Get-SnSpotter: MyPlaylist
+[2022-08-20 11:41:08] Playlist count: 79
+[2022-08-20 11:41:08] Initial UniqueTracks Count: 66363
+[2022-08-20 11:41:24] Sn_MyPlaylist items: 7212
+[2022-08-20 11:41:24] Adding IsUnique property
+[2022-08-20 11:45:43] Creating Sn_MyPlaylist
+[2022-08-20 11:45:45] Sn_MyPlaylist exists: True
+[2022-08-20 11:45:45] Filtering UniqueItems
+[2022-08-20 11:45:46] UniqueItems Count: 604
+[2022-08-20 11:45:46] Final UniqueTracks Count: 66967
+[2022-08-20 11:45:47] Convert Sn_MyPlaylist to Tsv
+[2022-08-20 11:45:49] End Get-SnSpotter: MyPlaylist
+[2022-08-20 11:45:49] Making 2022-08-20_MyPlaylist Spotify playlist
+[2022-08-20 11:45:50] Playlist created. Name: 2022-08-20_MyPlaylist; Id: 6XTFWakgDXU5gVz4PG0uL3
+[2022-08-20 11:45:57] Start Get-SnSpotter: WeeklyCharts
+[2022-08-20 11:45:57] Playlist count: 57
+[2022-08-20 11:45:57] Initial UniqueTracks Count: 3140
+[2022-08-20 11:46:13] Sn_WeeklyCharts items: 2850
+[2022-08-20 11:46:13] Adding IsUnique property
+[2022-08-20 11:46:18] Creating Sn_WeeklyCharts
+[2022-08-20 11:46:19] Sn_WeeklyCharts exists: True
+[2022-08-20 11:46:19] Filtering UniqueItems
+[2022-08-20 11:46:20] UniqueItems Count: 130
+[2022-08-20 11:46:20] Final UniqueTracks Count: 3270
+[2022-08-20 11:46:20] Convert Sn_WeeklyCharts to Tsv
+[2022-08-20 11:46:21] End Get-SnSpotter: WeeklyCharts
+[2022-08-27 17:51:58] Start Get-SnSpotter: BulkPlaylist
+[2022-08-27 17:51:58] Playlist count: 198
+[2022-08-27 17:51:58] Initial UniqueTracks Count: 94231
+[2022-08-27 17:52:02] Sn_BulkPlaylist items: 14600
+[2022-08-27 17:52:02] Adding IsNew property
+[2022-08-27 17:52:04] Adding IsUnique property
+[2022-08-27 18:05:17] Creating Sn_BulkPlaylist
+[2022-08-27 18:05:20] Sn_BulkPlaylist exists: True
+[2022-08-27 18:05:21] Filtering UniqueItems
+[2022-08-27 18:05:22] UniqueItems Count: 1148
+[2022-08-27 18:05:22] Final UniqueTracks Count: 95379
+[2022-08-27 18:05:23] Convert Sn_BulkPlaylist to Tsv
+[2022-08-27 18:05:34] End Get-SnSpotter: BulkPlaylist
+[2022-08-27 18:11:36] Start Get-SnSpotter: MyPlaylist
+[2022-08-27 18:11:36] Playlist count: 79
+[2022-08-27 18:11:36] Initial UniqueTracks Count: 66967
+[2022-08-27 18:11:49] Sn_MyPlaylist items: 7283
+[2022-08-27 18:11:49] Adding IsUnique property
+[2022-08-27 18:16:23] Creating Sn_MyPlaylist
+[2022-08-27 18:16:25] Sn_MyPlaylist exists: True
+[2022-08-27 18:16:26] Filtering UniqueItems
+[2022-08-27 18:16:26] UniqueItems Count: 797
+[2022-08-27 18:16:26] Final UniqueTracks Count: 67764
+[2022-08-27 18:16:27] Convert Sn_MyPlaylist to Tsv
+[2022-08-27 18:16:30] End Get-SnSpotter: MyPlaylist
+[2022-08-27 18:18:21] Making 2022-08-27_MyPlaylist Spotify playlist
+[2022-08-27 18:18:21] Playlist created. Name: 2022-08-27_MyPlaylist; Id: 4LpSu400xWRCfPSFN7QCjj
+[2022-08-27 18:20:58] Start Get-SnSpotter: WeeklyCharts
+[2022-08-27 18:20:58] Playlist count: 57
+[2022-08-27 18:20:58] Initial UniqueTracks Count: 3270
+[2022-08-27 18:21:11] Sn_WeeklyCharts items: 2850
+[2022-08-27 18:21:11] Adding IsUnique property
+[2022-08-27 18:21:15] Creating Sn_WeeklyCharts
+[2022-08-27 18:21:15] Sn_WeeklyCharts exists: True
+[2022-08-27 18:21:15] Filtering UniqueItems
+[2022-08-27 18:21:15] UniqueItems Count: 112
+[2022-08-27 18:21:15] Final UniqueTracks Count: 3382
+[2022-08-27 18:21:15] Convert Sn_WeeklyCharts to Tsv
+[2022-08-27 18:21:17] End Get-SnSpotter: WeeklyCharts
+[2022-09-03 12:52:37] Start Get-SnSpotter: BulkPlaylist
+[2022-09-03 12:52:37] Playlist count: 198
+[2022-09-03 12:52:37] Initial UniqueTracks Count: 95379
+[2022-09-03 12:52:41] Sn_BulkPlaylist items: 14588
+[2022-09-03 12:52:41] Adding IsNew property
+[2022-09-03 12:52:43] Adding IsUnique property
+[2022-09-03 13:03:52] Creating Sn_BulkPlaylist
+[2022-09-03 13:03:55] Sn_BulkPlaylist exists: True
+[2022-09-03 13:03:56] Filtering UniqueItems
+[2022-09-03 13:03:56] UniqueItems Count: 1139
+[2022-09-03 13:03:57] Final UniqueTracks Count: 96518
+[2022-09-03 13:03:58] Convert Sn_BulkPlaylist to Tsv
+[2022-09-03 13:04:03] End Get-SnSpotter: BulkPlaylist
+[2022-09-03 13:09:03] Start Get-SnSpotter: MyPlaylist
+[2022-09-03 13:09:03] Playlist count: 79
+[2022-09-03 13:09:03] Initial UniqueTracks Count: 67764
+[2022-09-03 13:09:16] Sn_MyPlaylist items: 7249
+[2022-09-03 13:09:16] Adding IsUnique property
+[2022-09-03 13:13:02] Creating Sn_MyPlaylist
+[2022-09-03 13:13:05] Sn_MyPlaylist exists: True
+[2022-09-03 13:13:05] Filtering UniqueItems
+[2022-09-03 13:13:06] UniqueItems Count: 704
+[2022-09-03 13:13:06] Final UniqueTracks Count: 68468
+[2022-09-03 13:13:07] Convert Sn_MyPlaylist to Tsv
+[2022-09-03 13:13:09] End Get-SnSpotter: MyPlaylist
+[2022-09-03 13:14:42] Making 2022-09-03_MyPlaylist Spotify playlist
+[2022-09-03 13:14:42] Playlist created. Name: 2022-09-03_MyPlaylist; Id: 0QLrqgfdmVxRocJOAWaXg7
+[2022-09-03 13:15:51] Start Get-SnSpotter: WeeklyCharts
+[2022-09-03 13:15:51] Playlist count: 57
+[2022-09-03 13:15:51] Initial UniqueTracks Count: 3382
+[2022-09-03 13:16:05] Sn_WeeklyCharts items: 2850
+[2022-09-03 13:16:05] Adding IsUnique property
+[2022-09-03 13:16:10] Creating Sn_WeeklyCharts
+[2022-09-03 13:16:10] Sn_WeeklyCharts exists: True
+[2022-09-03 13:16:11] Filtering UniqueItems
+[2022-09-03 13:16:11] UniqueItems Count: 115
+[2022-09-03 13:16:11] Final UniqueTracks Count: 3497
+[2022-09-03 13:16:11] Convert Sn_WeeklyCharts to Tsv
+[2022-09-03 13:16:12] End Get-SnSpotter: WeeklyCharts
+[2022-09-10 11:44:19] Start Get-SnSpotter: BulkPlaylist
+[2022-09-10 11:44:19] Playlist count: 198
+[2022-09-10 11:44:19] Initial UniqueTracks Count: 96518
+[2022-09-10 11:44:23] Sn_BulkPlaylist items: 14629
+[2022-09-10 11:44:23] Adding IsNew property
+[2022-09-10 11:44:25] Adding IsUnique property
+[2022-09-10 11:55:12] Creating Sn_BulkPlaylist
+[2022-09-10 11:55:15] Sn_BulkPlaylist exists: True
+[2022-09-10 11:55:16] Filtering UniqueItems
+[2022-09-10 11:55:17] UniqueItems Count: 1293
+[2022-09-10 11:55:17] Final UniqueTracks Count: 97811
+[2022-09-10 11:55:18] Convert Sn_BulkPlaylist to Tsv
+[2022-09-10 11:55:24] End Get-SnSpotter: BulkPlaylist
+[2022-09-10 11:55:25] Start Get-SnSpotter: MyPlaylist
+[2022-09-10 11:55:25] Playlist count: 79
+[2022-09-10 11:55:25] Initial UniqueTracks Count: 68468
+[2022-09-10 11:55:39] Sn_MyPlaylist items: 7255
+[2022-09-10 11:55:39] Adding IsUnique property
+[2022-09-10 11:59:20] Creating Sn_MyPlaylist
+[2022-09-10 11:59:22] Sn_MyPlaylist exists: True
+[2022-09-10 11:59:22] Filtering UniqueItems
+[2022-09-10 11:59:22] UniqueItems Count: 819
+[2022-09-10 11:59:22] Final UniqueTracks Count: 69287
+[2022-09-10 11:59:23] Convert Sn_MyPlaylist to Tsv
+[2022-09-10 11:59:26] End Get-SnSpotter: MyPlaylist
+[2022-09-10 11:59:26] Making 2022-09-10_MyPlaylist Spotify playlist
+[2022-09-10 11:59:26] Playlist created. Name: 2022-09-10_MyPlaylist; Id: 4vAPe3PRla65EA8vM39dk6
+[2022-09-10 11:59:33] Start Get-SnSpotter: WeeklyCharts
+[2022-09-10 11:59:33] Playlist count: 57
+[2022-09-10 11:59:33] Initial UniqueTracks Count: 3497
+[2022-09-10 11:59:45] Sn_WeeklyCharts items: 2850
+[2022-09-10 11:59:45] Adding IsUnique property
+[2022-09-10 11:59:50] Creating Sn_WeeklyCharts
+[2022-09-10 11:59:50] Sn_WeeklyCharts exists: True
+[2022-09-10 11:59:50] Filtering UniqueItems
+[2022-09-10 11:59:50] UniqueItems Count: 152
+[2022-09-10 11:59:50] Final UniqueTracks Count: 3649
+[2022-09-10 11:59:50] Convert Sn_WeeklyCharts to Tsv
+[2022-09-10 11:59:52] End Get-SnSpotter: WeeklyCharts
+[2022-09-17 11:59:42] Start Get-SnSpotter: BulkPlaylist
+[2022-09-17 11:59:42] Playlist count: 198
+[2022-09-17 11:59:42] Initial UniqueTracks Count: 97811
+[2022-09-17 11:59:46] Sn_BulkPlaylist items: 14701
+[2022-09-17 11:59:46] Adding IsNew property
+[2022-09-17 11:59:49] Adding IsUnique property
+[2022-09-17 12:11:08] Creating Sn_BulkPlaylist
+[2022-09-17 12:11:11] Sn_BulkPlaylist exists: True
+[2022-09-17 12:11:13] Filtering UniqueItems
+[2022-09-17 12:11:13] UniqueItems Count: 1187
+[2022-09-17 12:11:13] Final UniqueTracks Count: 98998
+[2022-09-17 12:11:14] Convert Sn_BulkPlaylist to Tsv
+[2022-09-17 12:11:20] End Get-SnSpotter: BulkPlaylist
+[2022-09-17 12:11:22] Start Get-SnSpotter: MyPlaylist
+[2022-09-17 12:11:22] Playlist count: 79
+[2022-09-17 12:11:22] Initial UniqueTracks Count: 69287
+[2022-09-17 12:11:35] Sn_MyPlaylist items: 7273
+[2022-09-17 12:11:35] Adding IsUnique property
+[2022-09-17 12:15:30] Creating Sn_MyPlaylist
+[2022-09-17 12:15:32] Sn_MyPlaylist exists: True
+[2022-09-17 12:15:32] Filtering UniqueItems
+[2022-09-17 12:15:33] UniqueItems Count: 737
+[2022-09-17 12:15:33] Final UniqueTracks Count: 70024
+[2022-09-17 12:15:34] Convert Sn_MyPlaylist to Tsv
+[2022-09-17 12:15:37] End Get-SnSpotter: MyPlaylist
+[2022-09-17 12:15:37] Making 2022-09-17_MyPlaylist Spotify playlist
+[2022-09-17 12:15:37] Playlist created. Name: 2022-09-17_MyPlaylist; Id: 7u4IDcj3Dgaf1yjuDS2vPI
+[2022-09-17 13:49:20] Start Get-SnSpotter: WeeklyCharts
+[2022-09-17 13:49:20] Playlist count: 57
+[2022-09-17 13:49:20] Initial UniqueTracks Count: 3649
+[2022-09-17 13:49:32] Sn_WeeklyCharts items: 2850
+[2022-09-17 13:49:32] Adding IsUnique property
+[2022-09-17 13:49:36] Creating Sn_WeeklyCharts
+[2022-09-17 13:49:37] Sn_WeeklyCharts exists: True
+[2022-09-17 13:49:37] Filtering UniqueItems
+[2022-09-17 13:49:37] UniqueItems Count: 138
+[2022-09-17 13:49:37] Final UniqueTracks Count: 3787
+[2022-09-17 13:49:37] Convert Sn_WeeklyCharts to Tsv
+[2022-09-17 13:49:39] End Get-SnSpotter: WeeklyCharts
+[2022-09-24 12:23:51] Start Get-SnSpotter: BulkPlaylist
+[2022-09-24 12:23:51] Playlist count: 198
+[2022-09-24 12:23:51] Initial UniqueTracks Count: 98998
+[2022-09-24 12:23:55] Sn_BulkPlaylist items: 14778
+[2022-09-24 12:23:55] Adding IsNew property
+[2022-09-24 12:23:58] Adding IsUnique property
+[2022-09-24 12:35:33] Creating Sn_BulkPlaylist
+[2022-09-24 12:35:36] Sn_BulkPlaylist exists: True
+[2022-09-24 12:35:37] Filtering UniqueItems
+[2022-09-24 12:35:38] UniqueItems Count: 1262
+[2022-09-24 12:35:38] Final UniqueTracks Count: 100260
+[2022-09-24 12:35:39] Convert Sn_BulkPlaylist to Tsv
+[2022-09-24 12:35:45] End Get-SnSpotter: BulkPlaylist
+[2022-09-24 12:35:47] Start Get-SnSpotter: MyPlaylist
+[2022-09-24 12:35:47] Playlist count: 79
+[2022-09-24 12:35:47] Initial UniqueTracks Count: 70024
+[2022-09-24 12:36:00] Sn_MyPlaylist items: 7283
+[2022-09-24 12:36:00] Adding IsUnique property
+[2022-09-24 12:40:10] Creating Sn_MyPlaylist
+[2022-09-24 12:40:12] Sn_MyPlaylist exists: True
+[2022-09-24 12:40:12] Filtering UniqueItems
+[2022-09-24 12:40:12] UniqueItems Count: 787
+[2022-09-24 12:40:12] Final UniqueTracks Count: 70811
+[2022-09-24 12:40:13] Convert Sn_MyPlaylist to Tsv
+[2022-09-24 12:40:16] End Get-SnSpotter: MyPlaylist
+[2022-09-24 12:40:16] Making 2022-09-24_MyPlaylist Spotify playlist
+[2022-09-24 12:40:17] Playlist created. Name: 2022-09-24_MyPlaylist; Id: 4IxqTajl8iDbw9fWFoigTH
+[2022-09-24 12:40:25] Start Get-SnSpotter: WeeklyCharts
+[2022-09-24 12:40:25] Playlist count: 57
+[2022-09-24 12:40:25] Initial UniqueTracks Count: 3787
+[2022-09-24 12:40:38] Sn_WeeklyCharts items: 2850
+[2022-09-24 12:40:38] Adding IsUnique property
+[2022-09-24 12:40:43] Creating Sn_WeeklyCharts
+[2022-09-24 12:40:44] Sn_WeeklyCharts exists: True
+[2022-09-24 12:40:44] Filtering UniqueItems
+[2022-09-24 12:40:44] UniqueItems Count: 141
+[2022-09-24 12:40:44] Final UniqueTracks Count: 3928
+[2022-09-24 12:40:44] Convert Sn_WeeklyCharts to Tsv
+[2022-09-24 12:40:46] End Get-SnSpotter: WeeklyCharts
+[2022-10-01 11:52:25] Start Get-SnSpotter: BulkPlaylist
+[2022-10-01 11:52:25] Playlist count: 195
+[2022-10-01 11:52:25] Initial UniqueTracks Count: 100260
+[2022-10-01 11:52:28] Sn_BulkPlaylist items: 14867
+[2022-10-01 11:52:28] Adding IsNew property
+[2022-10-01 11:52:31] Adding IsUnique property
+[2022-10-01 12:04:44] Creating Sn_BulkPlaylist
+[2022-10-01 12:04:48] Sn_BulkPlaylist exists: True
+[2022-10-01 12:04:49] Filtering UniqueItems
+[2022-10-01 12:04:49] UniqueItems Count: 1342
+[2022-10-01 12:04:50] Final UniqueTracks Count: 101602
+[2022-10-01 12:04:51] Convert Sn_BulkPlaylist to Tsv
+[2022-10-01 12:04:57] End Get-SnSpotter: BulkPlaylist
+[2022-10-01 12:04:59] Start Get-SnSpotter: MyPlaylist
+[2022-10-01 12:04:59] Playlist count: 79
+[2022-10-01 12:04:59] Initial UniqueTracks Count: 70811
+[2022-10-01 12:05:13] Sn_MyPlaylist items: 7285
+[2022-10-01 12:05:13] Adding IsUnique property
+[2022-10-01 12:09:26] Creating Sn_MyPlaylist
+[2022-10-01 12:09:27] Sn_MyPlaylist exists: True
+[2022-10-01 12:09:28] Filtering UniqueItems
+[2022-10-01 12:09:28] UniqueItems Count: 894
+[2022-10-01 12:09:28] Final UniqueTracks Count: 71705
+[2022-10-01 12:09:29] Convert Sn_MyPlaylist to Tsv
+[2022-10-01 12:09:32] End Get-SnSpotter: MyPlaylist
+[2022-10-01 12:09:32] Making 2022-10-01_MyPlaylist Spotify playlist
+[2022-10-01 12:09:33] Playlist created. Name: 2022-10-01_MyPlaylist; Id: 6ZJbGvMfFiJO10y5i3MLKo
+[2022-10-01 12:09:41] Start Get-SnSpotter: WeeklyCharts
+[2022-10-01 12:09:41] Playlist count: 57
+[2022-10-01 12:09:41] Initial UniqueTracks Count: 3928
+[2022-10-01 12:09:53] Sn_WeeklyCharts items: 2850
+[2022-10-01 12:09:53] Adding IsUnique property
+[2022-10-01 12:09:58] Creating Sn_WeeklyCharts
+[2022-10-01 12:09:59] Sn_WeeklyCharts exists: True
+[2022-10-01 12:09:59] Filtering UniqueItems
+[2022-10-01 12:09:59] UniqueItems Count: 122
+[2022-10-01 12:09:59] Final UniqueTracks Count: 4050
+[2022-10-01 12:09:59] Convert Sn_WeeklyCharts to Tsv
+[2022-10-01 12:10:01] End Get-SnSpotter: WeeklyCharts
+[2022-10-08 11:53:48] Start Get-SnSpotter: BulkPlaylist
+[2022-10-08 11:53:48] Playlist count: 196
+[2022-10-08 11:53:48] Initial UniqueTracks Count: 101602
+[2022-10-08 11:53:52] Sn_BulkPlaylist items: 15028
+[2022-10-08 11:53:52] Adding IsNew property
+[2022-10-08 11:53:55] EQUAL New Age[37i9dQZF1DX7QGYV9jyeOE] not in 2022-10-01_Sn_BulkPlaylist.json
+[2022-10-08 11:53:55] Adding IsUnique property
+[2022-10-08 12:08:42] Creating Sn_BulkPlaylist
+[2022-10-08 12:08:46] Sn_BulkPlaylist exists: True
+[2022-10-08 12:08:48] Filtering UniqueItems
+[2022-10-08 12:08:48] UniqueItems Count: 1326
+[2022-10-08 12:08:49] Final UniqueTracks Count: 102928
+[2022-10-08 12:08:50] Convert Sn_BulkPlaylist to Tsv
+[2022-10-08 12:09:05] End Get-SnSpotter: BulkPlaylist
+[2022-10-08 12:09:07] Start Get-SnSpotter: MyPlaylist
+[2022-10-08 12:09:07] Playlist count: 80
+[2022-10-08 12:09:07] Initial UniqueTracks Count: 71705
+[2022-10-08 12:09:32] Sn_MyPlaylist items: 7384
+[2022-10-08 12:09:32] Adding IsUnique property
+[2022-10-08 12:14:12] Creating Sn_MyPlaylist
+[2022-10-08 12:14:14] Sn_MyPlaylist exists: True
+[2022-10-08 12:14:14] Filtering UniqueItems
+[2022-10-08 12:14:14] UniqueItems Count: 830
+[2022-10-08 12:14:14] Final UniqueTracks Count: 72535
+[2022-10-08 12:14:15] Convert Sn_MyPlaylist to Tsv
+[2022-10-08 12:14:18] End Get-SnSpotter: MyPlaylist
+[2022-10-08 12:14:18] Making 2022-10-08_MyPlaylist Spotify playlist
+[2022-10-08 12:14:19] Playlist created. Name: 2022-10-08_MyPlaylist; Id: 6K8Q5z8PG6DCjYmfWRpXvw
+[2022-10-08 12:14:29] Start Get-SnSpotter: WeeklyCharts
+[2022-10-08 12:14:29] Playlist count: 57
+[2022-10-08 12:14:29] Initial UniqueTracks Count: 4050
+[2022-10-08 12:14:42] Sn_WeeklyCharts items: 2800
+[2022-10-08 12:14:42] Adding IsUnique property
+[2022-10-08 12:14:48] Creating Sn_WeeklyCharts
+[2022-10-08 12:14:49] Sn_WeeklyCharts exists: True
+[2022-10-08 12:14:49] Filtering UniqueItems
+[2022-10-08 12:14:49] UniqueItems Count: 161
+[2022-10-08 12:14:49] Final UniqueTracks Count: 4211
+[2022-10-08 12:14:49] Convert Sn_WeeklyCharts to Tsv
+[2022-10-08 12:14:51] End Get-SnSpotter: WeeklyCharts
+[2022-10-15 12:52:50] Start Get-SnSpotter: BulkPlaylist
+[2022-10-15 12:52:50] Playlist count: 196
+[2022-10-15 12:52:50] Initial UniqueTracks Count: 102928
+[2022-10-15 12:52:54] Sn_BulkPlaylist items: 14997
+[2022-10-15 12:52:54] Adding IsNew property
+[2022-10-15 12:52:56] Top Songs - Vietnam[37i9dQZEVXbKZyn1mKjmIl] not in 2022-10-08_Sn_BulkPlaylist.json
+[2022-10-15 12:52:57] Adding IsUnique property
+[2022-10-15 13:05:26] Creating Sn_BulkPlaylist
+[2022-10-15 13:05:29] Sn_BulkPlaylist exists: True
+[2022-10-15 13:05:30] Filtering UniqueItems
+[2022-10-15 13:05:31] UniqueItems Count: 1335
+[2022-10-15 13:05:31] Final UniqueTracks Count: 104263
+[2022-10-15 13:05:32] Convert Sn_BulkPlaylist to Tsv
+[2022-10-15 13:05:39] End Get-SnSpotter: BulkPlaylist
+[2022-10-15 13:05:41] Start Get-SnSpotter: MyPlaylist
+[2022-10-15 13:05:41] Playlist count: 80
+[2022-10-15 13:05:41] Initial UniqueTracks Count: 72535
+[2022-10-15 13:05:56] Sn_MyPlaylist items: 7409
+[2022-10-15 13:05:56] Adding IsUnique property
+[2022-10-15 13:10:15] Creating Sn_MyPlaylist
+[2022-10-15 13:10:17] Sn_MyPlaylist exists: True
+[2022-10-15 13:10:18] Filtering UniqueItems
+[2022-10-15 13:10:18] UniqueItems Count: 844
+[2022-10-15 13:10:18] Final UniqueTracks Count: 73379
+[2022-10-15 13:10:19] Convert Sn_MyPlaylist to Tsv
+[2022-10-15 13:10:22] End Get-SnSpotter: MyPlaylist
+[2022-10-15 13:10:22] Making 2022-10-15_MyPlaylist Spotify playlist
+[2022-10-15 13:10:23] Playlist created. Name: 2022-10-15_MyPlaylist; Id: 6idSbdb8prtEV1YMYi2FUq
+[2022-10-15 13:10:33] Start Get-SnSpotter: WeeklyCharts
+[2022-10-15 13:10:33] Playlist count: 57
+[2022-10-15 13:10:33] Initial UniqueTracks Count: 4211
+[2022-10-15 13:10:47] Sn_WeeklyCharts items: 2850
+[2022-10-15 13:10:47] Adding IsUnique property
+[2022-10-15 13:10:53] Creating Sn_WeeklyCharts
+[2022-10-15 13:10:53] Sn_WeeklyCharts exists: True
+[2022-10-15 13:10:54] Filtering UniqueItems
+[2022-10-15 13:10:54] UniqueItems Count: 133
+[2022-10-15 13:10:54] Final UniqueTracks Count: 4344
+[2022-10-15 13:10:54] Convert Sn_WeeklyCharts to Tsv
+[2022-10-15 13:10:56] End Get-SnSpotter: WeeklyCharts
+[2022-10-22 13:37:53] Start Get-SnSpotter: BulkPlaylist
+[2022-10-22 13:37:53] Playlist count: 196
+[2022-10-22 13:37:53] Initial UniqueTracks Count: 104263
+[2022-10-22 13:37:57] Sn_BulkPlaylist items: 15169
+[2022-10-22 13:37:57] Adding IsNew property
+[2022-10-22 13:37:59] RetroWave / Outrun[37i9dQZF1DXdLEN7aqioXM] not in 2022-10-15_Sn_BulkPlaylist.json
+[2022-10-22 13:37:59] Adding IsUnique property
+[2022-10-22 13:51:39] Creating Sn_BulkPlaylist
+[2022-10-22 13:51:43] Sn_BulkPlaylist exists: True
+[2022-10-22 13:51:45] Filtering UniqueItems
+[2022-10-22 13:51:46] UniqueItems Count: 1076
+[2022-10-22 13:51:46] Final UniqueTracks Count: 105339
+[2022-10-22 13:51:48] Convert Sn_BulkPlaylist to Tsv
+[2022-10-22 13:51:59] End Get-SnSpotter: BulkPlaylist
+[2022-10-22 13:52:03] Start Get-SnSpotter: MyPlaylist
+[2022-10-22 13:52:03] Playlist count: 80
+[2022-10-22 13:52:03] Initial UniqueTracks Count: 73379
+[2022-10-22 13:52:30] Sn_MyPlaylist items: 7464
+[2022-10-22 13:52:30] Adding IsUnique property
+[2022-10-22 13:58:41] Creating Sn_MyPlaylist
+[2022-10-22 13:58:43] Sn_MyPlaylist exists: True
+[2022-10-22 13:58:44] Filtering UniqueItems
+[2022-10-22 13:58:44] UniqueItems Count: 697
+[2022-10-22 13:58:44] Final UniqueTracks Count: 74076
+[2022-10-22 13:58:45] Convert Sn_MyPlaylist to Tsv
+[2022-10-22 13:58:48] End Get-SnSpotter: MyPlaylist
+[2022-10-22 13:58:49] Making 2022-10-22_MyPlaylist Spotify playlist
+[2022-10-22 13:58:49] Playlist created. Name: 2022-10-22_MyPlaylist; Id: 6slHTBz1309bKjNvxfvxky
+[2022-10-22 13:58:56] Start Get-SnSpotter: WeeklyCharts
+[2022-10-22 13:58:56] Playlist count: 57
+[2022-10-22 13:58:56] Initial UniqueTracks Count: 4344
+[2022-10-22 13:59:16] Sn_WeeklyCharts items: 2850
+[2022-10-22 13:59:16] Adding IsUnique property
+[2022-10-22 13:59:26] Creating Sn_WeeklyCharts
+[2022-10-22 13:59:26] Sn_WeeklyCharts exists: True
+[2022-10-22 13:59:27] Filtering UniqueItems
+[2022-10-22 13:59:27] UniqueItems Count: 158
+[2022-10-22 13:59:27] Final UniqueTracks Count: 4502
+[2022-10-22 13:59:27] Convert Sn_WeeklyCharts to Tsv
+[2022-10-22 13:59:28] End Get-SnSpotter: WeeklyCharts
+[2022-10-29 13:28:21] Start Get-SnSpotter: BulkPlaylist
+[2022-10-29 13:28:21] Playlist count: 198
+[2022-10-29 13:28:21] Initial UniqueTracks Count: 105339
+[2022-10-29 13:28:27] Sn_BulkPlaylist items: 15395
+[2022-10-29 13:28:27] Adding IsNew property
+[2022-10-29 13:28:29] EQUAL México[37i9dQZF1DWXoqmNKv7cNC] not in 2022-10-22_Sn_BulkPlaylist.json
+[2022-10-29 13:28:29] Viral 50 - Mexico[37i9dQZEVXbLuUZrygauiA] not in 2022-10-22_Sn_BulkPlaylist.json
+[2022-10-29 13:28:29] Adding IsUnique property
+[2022-10-29 13:43:16] Creating Sn_BulkPlaylist
+[2022-10-29 13:43:20] Sn_BulkPlaylist exists: True
+[2022-10-29 13:43:22] Filtering UniqueItems
+[2022-10-29 13:43:22] UniqueItems Count: 1390
+[2022-10-29 13:43:22] Final UniqueTracks Count: 106729
+[2022-10-29 13:43:24] Convert Sn_BulkPlaylist to Tsv
+[2022-10-29 13:43:30] End Get-SnSpotter: BulkPlaylist
+[2022-10-29 13:43:33] Start Get-SnSpotter: MyPlaylist
+[2022-10-29 13:43:33] Playlist count: 82
+[2022-10-29 13:43:33] Initial UniqueTracks Count: 74076
+[2022-10-29 13:43:48] Sn_MyPlaylist items: 7588
+[2022-10-29 13:43:48] Adding IsUnique property
+[2022-10-29 13:48:37] Creating Sn_MyPlaylist
+[2022-10-29 13:48:39] Sn_MyPlaylist exists: True
+[2022-10-29 13:48:39] Filtering UniqueItems
+[2022-10-29 13:48:40] UniqueItems Count: 845
+[2022-10-29 13:48:40] Final UniqueTracks Count: 74921
+[2022-10-29 13:48:40] Convert Sn_MyPlaylist to Tsv
+[2022-10-29 13:48:43] End Get-SnSpotter: MyPlaylist
+[2022-10-29 13:48:44] Making 2022-10-29_MyPlaylist Spotify playlist
+[2022-10-29 13:48:44] Playlist created. Name: 2022-10-29_MyPlaylist; Id: 41EbNvRkN4gqDPMwy0OwHC
+[2022-10-29 13:48:53] Start Get-SnSpotter: WeeklyCharts
+[2022-10-29 13:48:53] Playlist count: 57
+[2022-10-29 13:48:53] Initial UniqueTracks Count: 4502
+[2022-10-29 13:49:06] Sn_WeeklyCharts items: 2850
+[2022-10-29 13:49:06] Adding IsUnique property
+[2022-10-29 13:49:12] Creating Sn_WeeklyCharts
+[2022-10-29 13:49:13] Sn_WeeklyCharts exists: True
+[2022-10-29 13:49:13] Filtering UniqueItems
+[2022-10-29 13:49:13] UniqueItems Count: 157
+[2022-10-29 13:49:13] Final UniqueTracks Count: 4659
+[2022-10-29 13:49:13] Convert Sn_WeeklyCharts to Tsv
+[2022-10-29 13:49:15] End Get-SnSpotter: WeeklyCharts
+[2022-11-05 13:33:15] Start Get-SnSpotter: BulkPlaylist
+[2022-11-05 13:33:15] Playlist count: 198
+[2022-11-05 13:33:15] Initial UniqueTracks Count: 106729
+[2022-11-05 13:33:18] Sn_BulkPlaylist items: 15349
+[2022-11-05 13:33:18] Adding IsNew property
+[2022-11-05 13:33:21] Adding IsUnique property
+[2022-11-05 13:46:53] Creating Sn_BulkPlaylist
+[2022-11-05 13:46:57] Sn_BulkPlaylist exists: True
+[2022-11-05 13:46:58] Filtering UniqueItems
+[2022-11-05 13:46:59] UniqueItems Count: 1053
+[2022-11-05 13:46:59] Final UniqueTracks Count: 107782
+[2022-11-05 13:47:01] Convert Sn_BulkPlaylist to Tsv
+[2022-11-05 13:47:07] End Get-SnSpotter: BulkPlaylist
+[2022-11-05 13:47:10] Start Get-SnSpotter: MyPlaylist
+[2022-11-05 13:47:10] Playlist count: 82
+[2022-11-05 13:47:10] Initial UniqueTracks Count: 74921
+[2022-11-05 13:47:25] Sn_MyPlaylist items: 7582
+[2022-11-05 13:47:25] Adding IsUnique property
+[2022-11-05 13:51:46] Creating Sn_MyPlaylist
+[2022-11-05 13:51:47] Sn_MyPlaylist exists: True
+[2022-11-05 13:51:47] Filtering UniqueItems
+[2022-11-05 13:51:48] UniqueItems Count: 643
+[2022-11-05 13:51:48] Final UniqueTracks Count: 75564
+[2022-11-05 13:51:49] Convert Sn_MyPlaylist to Tsv
+[2022-11-05 13:51:51] End Get-SnSpotter: MyPlaylist
+[2022-11-05 13:51:52] Making 2022-11-05_MyPlaylist Spotify playlist
+[2022-11-05 13:51:52] Playlist created. Name: 2022-11-05_MyPlaylist; Id: 29s22VPLiZlxGWjcRLMHVQ
+[2022-11-05 13:51:59] Start Get-SnSpotter: WeeklyCharts
+[2022-11-05 13:51:59] Playlist count: 57
+[2022-11-05 13:51:59] Initial UniqueTracks Count: 4659
+[2022-11-05 13:52:12] Sn_WeeklyCharts items: 2850
+[2022-11-05 13:52:12] Adding IsUnique property
+[2022-11-05 13:52:19] Creating Sn_WeeklyCharts
+[2022-11-05 13:52:19] Sn_WeeklyCharts exists: True
+[2022-11-05 13:52:19] Filtering UniqueItems
+[2022-11-05 13:52:20] UniqueItems Count: 135
+[2022-11-05 13:52:20] Final UniqueTracks Count: 4794
+[2022-11-05 13:52:20] Convert Sn_WeeklyCharts to Tsv
+[2022-11-05 13:52:21] End Get-SnSpotter: WeeklyCharts
+[2022-11-12 12:01:11] Start Get-SnSpotter: BulkPlaylist
+[2022-11-12 12:01:11] Playlist count: 198
+[2022-11-12 12:01:11] Initial UniqueTracks Count: 107782
+[2022-11-12 12:01:15] Sn_BulkPlaylist items: 15066
+[2022-11-12 12:01:15] Adding IsNew property
+[2022-11-12 12:01:17] Adding IsUnique property
+[2022-11-12 12:15:04] Creating Sn_BulkPlaylist
+[2022-11-12 12:15:07] Sn_BulkPlaylist exists: True
+[2022-11-12 12:15:08] Filtering UniqueItems
+[2022-11-12 12:15:09] UniqueItems Count: 1394
+[2022-11-12 12:15:09] Final UniqueTracks Count: 109176
+[2022-11-12 12:15:10] Convert Sn_BulkPlaylist to Tsv
+[2022-11-12 12:15:17] End Get-SnSpotter: BulkPlaylist
+[2022-11-12 12:15:19] Start Get-SnSpotter: MyPlaylist
+[2022-11-12 12:15:19] Playlist count: 82
+[2022-11-12 12:15:19] Initial UniqueTracks Count: 75564
+[2022-11-12 12:15:31] Sn_MyPlaylist items: 7495
+[2022-11-12 12:15:31] Adding IsUnique property
+[2022-11-12 12:19:59] Creating Sn_MyPlaylist
+[2022-11-12 12:20:01] Sn_MyPlaylist exists: True
+[2022-11-12 12:20:01] Filtering UniqueItems
+[2022-11-12 12:20:02] UniqueItems Count: 811
+[2022-11-12 12:20:02] Final UniqueTracks Count: 76375
+[2022-11-12 12:20:03] Convert Sn_MyPlaylist to Tsv
+[2022-11-12 12:20:06] End Get-SnSpotter: MyPlaylist
+[2022-11-12 12:20:06] Making 2022-11-12_MyPlaylist Spotify playlist
+[2022-11-12 12:20:07] Playlist created. Name: 2022-11-12_MyPlaylist; Id: 56Ssv8s5pSr2IwByf2dRIs
+[2022-11-12 12:20:14] Start Get-SnSpotter: WeeklyCharts
+[2022-11-12 12:20:14] Playlist count: 57
+[2022-11-12 12:20:14] Initial UniqueTracks Count: 4794
+[2022-11-12 12:20:26] Sn_WeeklyCharts items: 2850
+[2022-11-12 12:20:26] Adding IsUnique property
+[2022-11-12 12:20:32] Creating Sn_WeeklyCharts
+[2022-11-12 12:20:33] Sn_WeeklyCharts exists: True
+[2022-11-12 12:20:33] Filtering UniqueItems
+[2022-11-12 12:20:33] UniqueItems Count: 169
+[2022-11-12 12:20:33] Final UniqueTracks Count: 4963
+[2022-11-12 12:20:33] Convert Sn_WeeklyCharts to Tsv
+[2022-11-12 12:20:34] End Get-SnSpotter: WeeklyCharts
+[2022-11-19 11:54:28] Start Get-SnSpotter: BulkPlaylist
+[2022-11-19 11:54:28] Playlist count: 198
+[2022-11-19 11:54:28] Initial UniqueTracks Count: 109176
+[2022-11-19 11:54:32] Sn_BulkPlaylist items: 15145
+[2022-11-19 11:54:32] Adding IsNew property
+[2022-11-19 11:54:35] Adding IsUnique property
+[2022-11-19 12:10:01] Creating Sn_BulkPlaylist
+[2022-11-19 12:10:07] Sn_BulkPlaylist exists: True
+[2022-11-19 12:10:09] Filtering UniqueItems
+[2022-11-19 12:10:10] UniqueItems Count: 1097
+[2022-11-19 12:10:10] Final UniqueTracks Count: 110273
+[2022-11-19 12:10:11] Convert Sn_BulkPlaylist to Tsv
+[2022-11-19 12:10:21] End Get-SnSpotter: BulkPlaylist
+[2022-11-19 12:10:24] Start Get-SnSpotter: MyPlaylist
+[2022-11-19 12:10:24] Playlist count: 82
+[2022-11-19 12:10:24] Initial UniqueTracks Count: 76375
+[2022-11-19 12:10:47] Sn_MyPlaylist items: 7548
+[2022-11-19 12:10:47] Adding IsUnique property
+[2022-11-19 12:16:41] Creating Sn_MyPlaylist
+[2022-11-19 12:16:44] Sn_MyPlaylist exists: True
+[2022-11-19 12:16:45] Filtering UniqueItems
+[2022-11-19 12:16:45] UniqueItems Count: 668
+[2022-11-19 12:16:45] Final UniqueTracks Count: 77043
+[2022-11-19 12:16:47] Convert Sn_MyPlaylist to Tsv
+[2022-11-19 12:16:56] End Get-SnSpotter: MyPlaylist
+[2022-11-19 12:16:57] Making 2022-11-19_MyPlaylist Spotify playlist
+[2022-11-19 12:16:57] Playlist created. Name: 2022-11-19_MyPlaylist; Id: 0Y12Gt2F8hRTA3dkm2aHpB
+[2022-11-19 12:17:03] Start Get-SnSpotter: WeeklyCharts
+[2022-11-19 12:17:03] Playlist count: 57
+[2022-11-19 12:17:03] Initial UniqueTracks Count: 4963
+[2022-11-19 12:17:20] Sn_WeeklyCharts items: 2850
+[2022-11-19 12:17:20] Adding IsUnique property
+[2022-11-19 12:17:28] Creating Sn_WeeklyCharts
+[2022-11-19 12:17:29] Sn_WeeklyCharts exists: True
+[2022-11-19 12:17:29] Filtering UniqueItems
+[2022-11-19 12:17:29] UniqueItems Count: 144
+[2022-11-19 12:17:29] Final UniqueTracks Count: 5107
+[2022-11-19 12:17:29] Convert Sn_WeeklyCharts to Tsv
+[2022-11-19 12:17:31] End Get-SnSpotter: WeeklyCharts
+[2022-11-26 11:47:38] Start Get-SnSpotter: BulkPlaylist
+[2022-11-26 11:47:38] Playlist count: 198
+[2022-11-26 11:47:38] Initial UniqueTracks Count: 110273
+[2022-11-26 11:47:42] Sn_BulkPlaylist items: 15306
+[2022-11-26 11:47:42] Adding IsNew property
+[2022-11-26 11:47:45] Adding IsUnique property
+[2022-11-26 12:00:37] Creating Sn_BulkPlaylist
+[2022-11-26 12:00:40] Sn_BulkPlaylist exists: True
+[2022-11-26 12:00:41] Filtering UniqueItems
+[2022-11-26 12:00:42] UniqueItems Count: 1114
+[2022-11-26 12:00:42] Final UniqueTracks Count: 111387
+[2022-11-26 12:00:43] Convert Sn_BulkPlaylist to Tsv
+[2022-11-26 12:00:49] End Get-SnSpotter: BulkPlaylist
+[2022-11-26 12:00:51] Start Get-SnSpotter: MyPlaylist
+[2022-11-26 12:00:51] Playlist count: 78
+[2022-11-26 12:00:51] Initial UniqueTracks Count: 77043
+[2022-11-26 12:01:04] Sn_MyPlaylist items: 7245
+[2022-11-26 12:01:04] Adding IsUnique property
+[2022-11-26 12:05:19] Creating Sn_MyPlaylist
+[2022-11-26 12:05:21] Sn_MyPlaylist exists: True
+[2022-11-26 12:05:21] Filtering UniqueItems
+[2022-11-26 12:05:21] UniqueItems Count: 544
+[2022-11-26 12:05:21] Final UniqueTracks Count: 77587
+[2022-11-26 12:05:22] Convert Sn_MyPlaylist to Tsv
+[2022-11-26 12:05:25] End Get-SnSpotter: MyPlaylist
+[2022-11-26 12:05:26] Making 2022-11-26_MyPlaylist Spotify playlist
+[2022-11-26 12:05:26] Playlist created. Name: 2022-11-26_MyPlaylist; Id: 4duyfkcZH6ClIsDXjA7db5
+[2022-11-26 12:05:33] Start Get-SnSpotter: WeeklyCharts
+[2022-11-26 12:05:33] Playlist count: 57
+[2022-11-26 12:05:33] Initial UniqueTracks Count: 5107
+[2022-11-26 12:05:44] Sn_WeeklyCharts items: 2850
+[2022-11-26 12:05:44] Adding IsUnique property
+[2022-11-26 12:05:51] Creating Sn_WeeklyCharts
+[2022-11-26 12:05:52] Sn_WeeklyCharts exists: True
+[2022-11-26 12:05:52] Filtering UniqueItems
+[2022-11-26 12:05:52] UniqueItems Count: 206
+[2022-11-26 12:05:52] Final UniqueTracks Count: 5313
+[2022-11-26 12:05:52] Convert Sn_WeeklyCharts to Tsv
+[2022-11-26 12:05:53] End Get-SnSpotter: WeeklyCharts
+[2022-12-03 11:34:19] Start Get-SnSpotter: BulkPlaylist
+[2022-12-03 11:34:19] Playlist count: 197
+[2022-12-03 11:34:19] Initial UniqueTracks Count: 111387
+[2022-12-03 11:34:23] Sn_BulkPlaylist items: 15348
+[2022-12-03 11:34:23] Adding IsNew property
+[2022-12-03 11:34:26] Adding IsUnique property
+[2022-12-03 11:46:52] Creating Sn_BulkPlaylist
+[2022-12-03 11:46:54] Sn_BulkPlaylist exists: True
+[2022-12-03 11:46:56] Filtering UniqueItems
+[2022-12-03 11:46:56] UniqueItems Count: 1103
+[2022-12-03 11:46:56] Final UniqueTracks Count: 112490
+[2022-12-03 11:46:58] Convert Sn_BulkPlaylist to Tsv
+[2022-12-03 11:47:03] End Get-SnSpotter: BulkPlaylist
+[2022-12-03 11:47:05] Start Get-SnSpotter: MyPlaylist
+[2022-12-03 11:47:05] Playlist count: 78
+[2022-12-03 11:47:05] Initial UniqueTracks Count: 77587
+[2022-12-03 11:47:18] Sn_MyPlaylist items: 7068
+[2022-12-03 11:47:18] Adding IsUnique property
+[2022-12-03 11:51:27] Creating Sn_MyPlaylist
+[2022-12-03 11:51:28] Sn_MyPlaylist exists: True
+[2022-12-03 11:51:29] Filtering UniqueItems
+[2022-12-03 11:51:29] UniqueItems Count: 622
+[2022-12-03 11:51:29] Final UniqueTracks Count: 78209
+[2022-12-03 11:51:30] Convert Sn_MyPlaylist to Tsv
+[2022-12-03 11:51:33] End Get-SnSpotter: MyPlaylist
+[2022-12-03 11:51:34] Making 2022-12-03_MyPlaylist Spotify playlist
+[2022-12-03 11:51:34] Playlist created. Name: 2022-12-03_MyPlaylist; Id: 5PWNhmC6LzPxkcXThRUAwj
+[2022-12-03 11:51:42] Start Get-SnSpotter: WeeklyCharts
+[2022-12-03 11:51:42] Playlist count: 57
+[2022-12-03 11:51:42] Initial UniqueTracks Count: 5313
+[2022-12-03 11:52:01] Sn_WeeklyCharts items: 2850
+[2022-12-03 11:52:01] Adding IsUnique property
+[2022-12-03 11:52:08] Creating Sn_WeeklyCharts
+[2022-12-03 11:52:09] Sn_WeeklyCharts exists: True
+[2022-12-03 11:52:09] Filtering UniqueItems
+[2022-12-03 11:52:09] UniqueItems Count: 163
+[2022-12-03 11:52:09] Final UniqueTracks Count: 5476
+[2022-12-03 11:52:09] Convert Sn_WeeklyCharts to Tsv
+[2022-12-03 11:52:12] End Get-SnSpotter: WeeklyCharts
+[2022-12-10 11:52:47] Start Get-SnSpotter: BulkPlaylist
+[2022-12-10 11:52:47] Playlist count: 197
+[2022-12-10 11:52:47] Initial UniqueTracks Count: 112490
+[2022-12-10 11:52:52] Sn_BulkPlaylist items: 15415
+[2022-12-10 11:52:52] Adding IsNew property
+[2022-12-10 11:52:54] Adding IsUnique property
+[2022-12-10 12:06:19] Creating Sn_BulkPlaylist
+[2022-12-10 12:06:23] Sn_BulkPlaylist exists: True
+[2022-12-10 12:06:25] Filtering UniqueItems
+[2022-12-10 12:06:26] UniqueItems Count: 970
+[2022-12-10 12:06:26] Final UniqueTracks Count: 113460
+[2022-12-10 12:06:27] Convert Sn_BulkPlaylist to Tsv
+[2022-12-10 12:06:33] End Get-SnSpotter: BulkPlaylist
+[2022-12-10 12:06:36] Start Get-SnSpotter: MyPlaylist
+[2022-12-10 12:06:36] Playlist count: 78
+[2022-12-10 12:06:36] Initial UniqueTracks Count: 78209
+[2022-12-10 12:06:49] Sn_MyPlaylist items: 7053
+[2022-12-10 12:06:49] Adding IsUnique property
+[2022-12-10 12:11:09] Creating Sn_MyPlaylist
+[2022-12-10 12:11:11] Sn_MyPlaylist exists: True
+[2022-12-10 12:11:12] Filtering UniqueItems
+[2022-12-10 12:11:12] UniqueItems Count: 487
+[2022-12-10 12:11:12] Final UniqueTracks Count: 78696
+[2022-12-10 12:11:13] Convert Sn_MyPlaylist to Tsv
+[2022-12-10 12:11:16] End Get-SnSpotter: MyPlaylist
+[2022-12-10 12:11:17] Making 2022-12-10_MyPlaylist Spotify playlist
+[2022-12-10 12:11:17] Playlist created. Name: 2022-12-10_MyPlaylist; Id: 2YbFncIn36tA5mpP0ztBxH
+[2022-12-10 12:11:23] Start Get-SnSpotter: WeeklyCharts
+[2022-12-10 12:11:23] Playlist count: 57
+[2022-12-10 12:11:23] Initial UniqueTracks Count: 5476
+[2022-12-10 12:11:35] Sn_WeeklyCharts items: 2850
+[2022-12-10 12:11:35] Adding IsUnique property
+[2022-12-10 12:11:42] Creating Sn_WeeklyCharts
+[2022-12-10 12:11:43] Sn_WeeklyCharts exists: True
+[2022-12-10 12:11:44] Filtering UniqueItems
+[2022-12-10 12:11:44] UniqueItems Count: 151
+[2022-12-10 12:11:44] Final UniqueTracks Count: 5627
+[2022-12-10 12:11:44] Convert Sn_WeeklyCharts to Tsv
+[2022-12-10 12:11:45] End Get-SnSpotter: WeeklyCharts
+[2022-12-17 12:41:43] Start Get-SnSpotter: BulkPlaylist
+[2022-12-17 12:41:43] Playlist count: 197
+[2022-12-17 12:41:43] Initial UniqueTracks Count: 113460
+[2022-12-17 12:41:48] Sn_BulkPlaylist items: 15455
+[2022-12-17 12:41:48] Adding IsNew property
+[2022-12-17 12:41:51] Adding IsUnique property
+[2022-12-17 12:55:33] Creating Sn_BulkPlaylist
+[2022-12-17 12:55:36] Sn_BulkPlaylist exists: True
+[2022-12-17 12:55:37] Filtering UniqueItems
+[2022-12-17 12:55:37] UniqueItems Count: 942
+[2022-12-17 12:55:38] Final UniqueTracks Count: 114402
+[2022-12-17 12:55:39] Convert Sn_BulkPlaylist to Tsv
+[2022-12-17 12:55:46] End Get-SnSpotter: BulkPlaylist
+[2022-12-17 12:55:48] Start Get-SnSpotter: MyPlaylist
+[2022-12-17 12:55:48] Playlist count: 78
+[2022-12-17 12:55:48] Initial UniqueTracks Count: 78696
+[2022-12-17 12:56:01] Sn_MyPlaylist items: 7041
+[2022-12-17 12:56:01] Adding IsUnique property
+[2022-12-17 13:00:21] Creating Sn_MyPlaylist
+[2022-12-17 13:00:23] Sn_MyPlaylist exists: True
+[2022-12-17 13:00:24] Filtering UniqueItems
+[2022-12-17 13:00:24] UniqueItems Count: 472
+[2022-12-17 13:00:24] Final UniqueTracks Count: 79168
+[2022-12-17 13:00:25] Convert Sn_MyPlaylist to Tsv
+[2022-12-17 13:00:28] End Get-SnSpotter: MyPlaylist
+[2022-12-17 13:00:29] Making 2022-12-17_MyPlaylist Spotify playlist
+[2022-12-17 13:00:29] Playlist created. Name: 2022-12-17_MyPlaylist; Id: 6ynXQOZlPbdryf5hvUlxse
+[2022-12-17 13:11:35] Making 2022-12-17_MyPlaylist Spotify playlist
+[2022-12-17 13:11:36] Playlist created. Name: 2022-12-17_MyPlaylist; Id: 1prnbTaUeyVj3TmYUSQvYb
+[2022-12-17 13:12:02] Start Get-SnSpotter: WeeklyCharts
+[2022-12-17 13:12:02] Playlist count: 57
+[2022-12-17 13:12:03] Initial UniqueTracks Count: 5627
+[2022-12-17 13:12:15] Sn_WeeklyCharts items: 2850
+[2022-12-17 13:12:15] Adding IsUnique property
+[2022-12-17 13:12:23] Creating Sn_WeeklyCharts
+[2022-12-17 13:12:23] Sn_WeeklyCharts exists: True
+[2022-12-17 13:12:24] Filtering UniqueItems
+[2022-12-17 13:12:24] UniqueItems Count: 132
+[2022-12-17 13:12:24] Final UniqueTracks Count: 5759
+[2022-12-17 13:12:24] Convert Sn_WeeklyCharts to Tsv
+[2022-12-17 13:12:25] End Get-SnSpotter: WeeklyCharts
+[2022-12-24 13:39:53] Start Get-SnSpotter: BulkPlaylist
+[2022-12-24 13:39:53] Playlist count: 197
+[2022-12-24 13:39:53] Initial UniqueTracks Count: 114402
+[2022-12-24 13:39:57] Sn_BulkPlaylist items: 14694
+[2022-12-24 13:39:57] Adding IsNew property
+[2022-12-24 13:40:00] Adding IsUnique property
+[2022-12-24 14:01:23] Creating Sn_BulkPlaylist
+[2022-12-24 14:01:29] Sn_BulkPlaylist exists: True
+[2022-12-24 14:01:31] Filtering UniqueItems
+[2022-12-24 14:01:32] UniqueItems Count: 764
+[2022-12-24 14:01:33] Final UniqueTracks Count: 115166
+[2022-12-24 14:01:35] Convert Sn_BulkPlaylist to Tsv
+[2022-12-24 14:01:48] End Get-SnSpotter: BulkPlaylist
+[2022-12-24 14:01:52] Start Get-SnSpotter: MyPlaylist
+[2022-12-24 14:01:52] Playlist count: 78
+[2022-12-24 14:01:52] Initial UniqueTracks Count: 79168
+[2022-12-24 14:02:19] Sn_MyPlaylist items: 6807
+[2022-12-24 14:02:19] Adding IsUnique property
+[2022-12-24 14:07:14] Creating Sn_MyPlaylist
+[2022-12-24 14:07:16] Sn_MyPlaylist exists: True
+[2022-12-24 14:07:17] Filtering UniqueItems
+[2022-12-24 14:07:17] UniqueItems Count: 277
+[2022-12-24 14:07:17] Final UniqueTracks Count: 79445
+[2022-12-24 14:07:18] Convert Sn_MyPlaylist to Tsv
+[2022-12-24 14:07:22] End Get-SnSpotter: MyPlaylist
+[2022-12-24 14:07:23] Making 2022-12-24_MyPlaylist Spotify playlist
+[2022-12-24 14:07:24] Playlist created. Name: 2022-12-24_MyPlaylist; Id: 3P3VVyzHuUahdXsDFWWHoJ
+[2022-12-24 14:07:28] Start Get-SnSpotter: WeeklyCharts
+[2022-12-24 14:07:28] Playlist count: 57
+[2022-12-24 14:07:28] Initial UniqueTracks Count: 5759
+[2022-12-24 14:07:40] Sn_WeeklyCharts items: 2850
+[2022-12-24 14:07:40] Adding IsUnique property
+[2022-12-24 14:07:48] Creating Sn_WeeklyCharts
+[2022-12-24 14:07:49] Sn_WeeklyCharts exists: True
+[2022-12-24 14:07:49] Filtering UniqueItems
+[2022-12-24 14:07:49] UniqueItems Count: 153
+[2022-12-24 14:07:49] Final UniqueTracks Count: 5912
+[2022-12-24 14:07:49] Convert Sn_WeeklyCharts to Tsv
+[2022-12-24 14:07:51] End Get-SnSpotter: WeeklyCharts
+[2022-12-31 13:18:22] Start Get-SnSpotter: BulkPlaylist
+[2022-12-31 13:18:22] Playlist count: 197
+[2022-12-31 13:18:22] Initial UniqueTracks Count: 115166
+[2022-12-31 13:18:27] Sn_BulkPlaylist items: 14907
+[2022-12-31 13:18:27] Adding IsNew property
+[2022-12-31 13:18:28] Dance Rising[37i9dQZF1DX8tZsk68tuDw] not in 2022-12-24_Sn_BulkPlaylist.json
+[2022-12-31 13:18:30] Adding IsUnique property
+[2022-12-31 13:32:27] Creating Sn_BulkPlaylist
+[2022-12-31 13:32:31] Sn_BulkPlaylist exists: True
+[2022-12-31 13:32:33] Filtering UniqueItems
+[2022-12-31 13:32:33] UniqueItems Count: 501
+[2022-12-31 13:32:34] Final UniqueTracks Count: 115667
+[2022-12-31 13:32:36] Convert Sn_BulkPlaylist to Tsv
+[2022-12-31 13:32:44] End Get-SnSpotter: BulkPlaylist
+[2022-12-31 13:32:46] Start Get-SnSpotter: MyPlaylist
+[2022-12-31 13:32:46] Playlist count: 78
+[2022-12-31 13:32:46] Initial UniqueTracks Count: 79445
+[2022-12-31 13:33:05] Sn_MyPlaylist items: 6975
+[2022-12-31 13:33:05] Adding IsUnique property
+[2022-12-31 13:37:40] Creating Sn_MyPlaylist
+[2022-12-31 13:37:42] Sn_MyPlaylist exists: True
+[2022-12-31 13:37:42] Filtering UniqueItems
+[2022-12-31 13:37:42] UniqueItems Count: 225
+[2022-12-31 13:37:42] Final UniqueTracks Count: 79670
+[2022-12-31 13:37:43] Convert Sn_MyPlaylist to Tsv
+[2022-12-31 13:37:46] End Get-SnSpotter: MyPlaylist
+[2022-12-31 13:37:47] Making 2022-12-31_MyPlaylist Spotify playlist
+[2022-12-31 13:37:47] Playlist created. Name: 2022-12-31_MyPlaylist; Id: 5OSB9EUcEXO2njkatCDk9a
+[2022-12-31 13:37:51] Start Get-SnSpotter: WeeklyCharts
+[2022-12-31 13:37:51] Playlist count: 57
+[2022-12-31 13:37:51] Initial UniqueTracks Count: 5912
+[2022-12-31 13:38:03] Sn_WeeklyCharts items: 2850
+[2022-12-31 13:38:03] Adding IsUnique property
+[2022-12-31 13:38:11] Creating Sn_WeeklyCharts
+[2022-12-31 13:38:12] Sn_WeeklyCharts exists: True
+[2022-12-31 13:38:12] Filtering UniqueItems
+[2022-12-31 13:38:12] UniqueItems Count: 115
+[2022-12-31 13:38:12] Final UniqueTracks Count: 6027
+[2022-12-31 13:38:12] Convert Sn_WeeklyCharts to Tsv
+[2022-12-31 13:38:14] End Get-SnSpotter: WeeklyCharts
+[2023-01-07 13:31:42] Start Get-SnSpotter: BulkPlaylist
+[2023-01-07 13:31:42] Playlist count: 197
+[2023-01-07 13:31:42] Initial UniqueTracks Count: 115667
+[2023-01-07 13:31:47] Sn_BulkPlaylist items: 14809
+[2023-01-07 13:31:47] Adding IsNew property
+[2023-01-07 13:31:49] Adding IsUnique property
+[2023-01-07 13:45:27] Creating Sn_BulkPlaylist
+[2023-01-07 13:45:30] Sn_BulkPlaylist exists: True
+[2023-01-07 13:45:32] Filtering UniqueItems
+[2023-01-07 13:45:32] UniqueItems Count: 830
+[2023-01-07 13:45:32] Final UniqueTracks Count: 116497
+[2023-01-07 13:45:34] Convert Sn_BulkPlaylist to Tsv
+[2023-01-07 13:45:40] End Get-SnSpotter: BulkPlaylist
+[2023-01-07 13:45:42] Start Get-SnSpotter: MyPlaylist
+[2023-01-07 13:45:42] Playlist count: 78
+[2023-01-07 13:45:42] Initial UniqueTracks Count: 79670
+[2023-01-07 13:45:56] Sn_MyPlaylist items: 6906
+[2023-01-07 13:45:56] Adding IsUnique property
+[2023-01-07 13:50:24] Creating Sn_MyPlaylist
+[2023-01-07 13:50:26] Sn_MyPlaylist exists: True
+[2023-01-07 13:50:26] Filtering UniqueItems
+[2023-01-07 13:50:26] UniqueItems Count: 432
+[2023-01-07 13:50:26] Final UniqueTracks Count: 80102
+[2023-01-07 13:50:27] Convert Sn_MyPlaylist to Tsv
+[2023-01-07 13:50:31] End Get-SnSpotter: MyPlaylist
+[2023-01-07 13:50:32] Making 2023-01-07_MyPlaylist Spotify playlist
+[2023-01-07 13:50:32] Playlist created. Name: 2023-01-07_MyPlaylist; Id: 3ZDcKQZ9Rqx53X02M7PdSN
+[2023-01-07 13:50:38] Start Get-SnSpotter: WeeklyCharts
+[2023-01-07 13:50:38] Playlist count: 57
+[2023-01-07 13:50:38] Initial UniqueTracks Count: 6027
+[2023-01-07 13:50:50] Sn_WeeklyCharts items: 2850
+[2023-01-07 13:50:50] Adding IsUnique property
+[2023-01-07 13:50:58] Creating Sn_WeeklyCharts
+[2023-01-07 13:50:59] Sn_WeeklyCharts exists: True
+[2023-01-07 13:50:59] Filtering UniqueItems
+[2023-01-07 13:50:59] UniqueItems Count: 96
+[2023-01-07 13:50:59] Final UniqueTracks Count: 6123
+[2023-01-07 13:50:59] Convert Sn_WeeklyCharts to Tsv
+[2023-01-07 13:51:01] End Get-SnSpotter: WeeklyCharts
+[2023-01-14 12:52:02] Start Get-SnSpotter: BulkPlaylist
+[2023-01-14 12:52:02] Playlist count: 197
+[2023-01-14 12:52:02] Initial UniqueTracks Count: 116497
+[2023-01-14 12:52:07] Sn_BulkPlaylist items: 14643
+[2023-01-14 12:52:07] Adding IsNew property
+[2023-01-14 12:52:09] Adding IsUnique property
+[2023-01-14 13:04:56] Creating Sn_BulkPlaylist
+[2023-01-14 13:04:59] Sn_BulkPlaylist exists: True
+[2023-01-14 13:05:00] Filtering UniqueItems
+[2023-01-14 13:05:01] UniqueItems Count: 1197
+[2023-01-14 13:05:01] Final UniqueTracks Count: 117694
+[2023-01-14 13:05:02] Convert Sn_BulkPlaylist to Tsv
+[2023-01-14 13:05:08] End Get-SnSpotter: BulkPlaylist
+[2023-01-14 13:05:10] Start Get-SnSpotter: MyPlaylist
+[2023-01-14 13:05:10] Playlist count: 78
+[2023-01-14 13:05:10] Initial UniqueTracks Count: 80102
+[2023-01-14 13:05:23] Sn_MyPlaylist items: 6846
+[2023-01-14 13:05:23] Adding IsUnique property
+[2023-01-14 13:09:33] Creating Sn_MyPlaylist
+[2023-01-14 13:09:35] Sn_MyPlaylist exists: True
+[2023-01-14 13:09:35] Filtering UniqueItems
+[2023-01-14 13:09:36] UniqueItems Count: 757
+[2023-01-14 13:09:36] Final UniqueTracks Count: 80859
+[2023-01-14 13:09:37] Convert Sn_MyPlaylist to Tsv
+[2023-01-14 13:09:39] End Get-SnSpotter: MyPlaylist
+[2023-01-14 13:09:40] Making 2023-01-14_MyPlaylist Spotify playlist
+[2023-01-14 13:09:41] Playlist created. Name: 2023-01-14_MyPlaylist; Id: 5OGNYgakh2ESVFHv6g5t3C
+[2023-01-14 13:09:47] Start Get-SnSpotter: WeeklyCharts
+[2023-01-14 13:09:47] Playlist count: 57
+[2023-01-14 13:09:47] Initial UniqueTracks Count: 6123
+[2023-01-14 13:10:00] Sn_WeeklyCharts items: 2850
+[2023-01-14 13:10:00] Adding IsUnique property
+[2023-01-14 13:10:08] Creating Sn_WeeklyCharts
+[2023-01-14 13:10:09] Sn_WeeklyCharts exists: True
+[2023-01-14 13:10:09] Filtering UniqueItems
+[2023-01-14 13:10:09] UniqueItems Count: 138
+[2023-01-14 13:10:09] Final UniqueTracks Count: 6261
+[2023-01-14 13:10:09] Convert Sn_WeeklyCharts to Tsv
+[2023-01-14 13:10:11] End Get-SnSpotter: WeeklyCharts
+[2023-01-21 12:41:00] Start Get-SnSpotter: BulkPlaylist
+[2023-01-21 12:41:00] Playlist count: 197
+[2023-01-21 12:41:00] Initial UniqueTracks Count: 117694
+[2023-01-21 12:41:04] Sn_BulkPlaylist items: 14818
+[2023-01-21 12:41:04] Adding IsNew property
+[2023-01-21 12:41:07] Adding IsUnique property
+[2023-01-21 12:54:33] Creating Sn_BulkPlaylist
+[2023-01-21 12:54:36] Sn_BulkPlaylist exists: True
+[2023-01-21 12:54:38] Filtering UniqueItems
+[2023-01-21 12:54:38] UniqueItems Count: 1238
+[2023-01-21 12:54:38] Final UniqueTracks Count: 118932
+[2023-01-21 12:54:40] Convert Sn_BulkPlaylist to Tsv
+[2023-01-21 12:54:45] End Get-SnSpotter: BulkPlaylist
+[2023-01-21 12:54:48] Start Get-SnSpotter: MyPlaylist
+[2023-01-21 12:54:48] Playlist count: 78
+[2023-01-21 12:54:48] Initial UniqueTracks Count: 80859
+[2023-01-21 12:55:00] Sn_MyPlaylist items: 6959
+[2023-01-21 12:55:00] Adding IsUnique property
+[2023-01-21 12:59:20] Creating Sn_MyPlaylist
+[2023-01-21 12:59:22] Sn_MyPlaylist exists: True
+[2023-01-21 12:59:22] Filtering UniqueItems
+[2023-01-21 12:59:22] UniqueItems Count: 739
+[2023-01-21 12:59:22] Final UniqueTracks Count: 81598
+[2023-01-21 12:59:23] Convert Sn_MyPlaylist to Tsv
+[2023-01-21 12:59:26] End Get-SnSpotter: MyPlaylist
+[2023-01-21 12:59:27] Making 2023-01-21_MyPlaylist Spotify playlist
+[2023-01-21 12:59:27] Playlist created. Name: 2023-01-21_MyPlaylist; Id: 2aS9yq3xTBxogGZeZaDwTL
+[2023-01-21 12:59:36] Start Get-SnSpotter: WeeklyCharts
+[2023-01-21 12:59:36] Playlist count: 57
+[2023-01-21 12:59:36] Initial UniqueTracks Count: 6261
+[2023-01-21 12:59:47] Sn_WeeklyCharts items: 2850
+[2023-01-21 12:59:47] Adding IsUnique property
+[2023-01-21 12:59:56] Creating Sn_WeeklyCharts
+[2023-01-21 12:59:56] Sn_WeeklyCharts exists: True
+[2023-01-21 12:59:57] Filtering UniqueItems
+[2023-01-21 12:59:57] UniqueItems Count: 131
+[2023-01-21 12:59:57] Final UniqueTracks Count: 6392
+[2023-01-21 12:59:57] Convert Sn_WeeklyCharts to Tsv
+[2023-01-21 12:59:58] End Get-SnSpotter: WeeklyCharts
+[2023-01-28 12:17:56] Start Get-SnSpotter: BulkPlaylist
+[2023-01-28 12:17:56] Playlist count: 197
+[2023-01-28 12:17:56] Initial UniqueTracks Count: 118932
+[2023-01-28 12:18:02] Sn_BulkPlaylist items: 15013
+[2023-01-28 12:18:02] Adding IsNew property
+[2023-01-28 12:18:04] Adding IsUnique property
+[2023-01-28 12:32:30] Creating Sn_BulkPlaylist
+[2023-01-28 12:32:33] Sn_BulkPlaylist exists: True
+[2023-01-28 12:32:35] Filtering UniqueItems
+[2023-01-28 12:32:36] UniqueItems Count: 1034
+[2023-01-28 12:32:36] Final UniqueTracks Count: 119966
+[2023-01-28 12:32:37] Convert Sn_BulkPlaylist to Tsv
+[2023-01-28 12:32:45] End Get-SnSpotter: BulkPlaylist
+[2023-01-28 12:32:47] Start Get-SnSpotter: MyPlaylist
+[2023-01-28 12:32:47] Playlist count: 78
+[2023-01-28 12:32:47] Initial UniqueTracks Count: 81598
+[2023-01-28 12:33:02] Sn_MyPlaylist items: 7008
+[2023-01-28 12:33:02] Adding IsUnique property
+[2023-01-28 12:37:47] Creating Sn_MyPlaylist
+[2023-01-28 12:37:49] Sn_MyPlaylist exists: True
+[2023-01-28 12:37:50] Filtering UniqueItems
+[2023-01-28 12:37:50] UniqueItems Count: 604
+[2023-01-28 12:37:50] Final UniqueTracks Count: 82202
+[2023-01-28 12:37:51] Convert Sn_MyPlaylist to Tsv
+[2023-01-28 12:37:54] End Get-SnSpotter: MyPlaylist
+[2023-01-28 12:37:55] Making 2023-01-28_MyPlaylist Spotify playlist
+[2023-01-28 12:37:56] Playlist created. Name: 2023-01-28_MyPlaylist; Id: 4Wm5znVMrGSCx77ftOFBBi
+[2023-01-28 12:38:04] Start Get-SnSpotter: WeeklyCharts
+[2023-01-28 12:38:04] Playlist count: 57
+[2023-01-28 12:38:04] Initial UniqueTracks Count: 6392
+[2023-01-28 12:38:17] Sn_WeeklyCharts items: 2850
+[2023-01-28 12:38:17] Adding IsUnique property
+[2023-01-28 12:38:26] Creating Sn_WeeklyCharts
+[2023-01-28 12:38:27] Sn_WeeklyCharts exists: True
+[2023-01-28 12:38:27] Filtering UniqueItems
+[2023-01-28 12:38:28] UniqueItems Count: 39
+[2023-01-28 12:38:28] Final UniqueTracks Count: 6431
+[2023-01-28 12:38:28] Convert Sn_WeeklyCharts to Tsv
+[2023-01-28 12:38:29] End Get-SnSpotter: WeeklyCharts
+[2023-02-04 13:23:29] Start Get-SnSpotter: BulkPlaylist
+[2023-02-04 13:23:29] Playlist count: 197
+[2023-02-04 13:23:29] Initial UniqueTracks Count: 119966
+[2023-02-04 13:23:34] Sn_BulkPlaylist items: 14964
+[2023-02-04 13:23:34] Adding IsNew property
+[2023-02-04 13:23:38] Adding IsUnique property
+[2023-02-04 13:37:12] Creating Sn_BulkPlaylist
+[2023-02-04 13:37:15] Sn_BulkPlaylist exists: True
+[2023-02-04 13:37:16] Filtering UniqueItems
+[2023-02-04 13:37:17] UniqueItems Count: 1339
+[2023-02-04 13:37:17] Final UniqueTracks Count: 121305
+[2023-02-04 13:37:19] Convert Sn_BulkPlaylist to Tsv
+[2023-02-04 13:37:25] End Get-SnSpotter: BulkPlaylist
+[2023-02-04 13:37:27] Start Get-SnSpotter: MyPlaylist
+[2023-02-04 13:37:27] Playlist count: 78
+[2023-02-04 13:37:27] Initial UniqueTracks Count: 82202
+[2023-02-04 13:37:40] Sn_MyPlaylist items: 7172
+[2023-02-04 13:37:40] Adding IsUnique property
+[2023-02-04 13:42:19] Creating Sn_MyPlaylist
+[2023-02-04 13:42:20] Sn_MyPlaylist exists: True
+[2023-02-04 13:42:20] Filtering UniqueItems
+[2023-02-04 13:42:21] UniqueItems Count: 754
+[2023-02-04 13:42:21] Final UniqueTracks Count: 82956
+[2023-02-04 13:42:22] Convert Sn_MyPlaylist to Tsv
+[2023-02-04 13:42:24] End Get-SnSpotter: MyPlaylist
+[2023-02-04 13:42:25] Making 2023-02-04_MyPlaylist Spotify playlist
+[2023-02-04 13:42:26] Playlist created. Name: 2023-02-04_MyPlaylist; Id: 2ObEo22JEQdBv8E1WhzRR1
+[2023-02-04 13:42:35] Start Get-SnSpotter: WeeklyCharts
+[2023-02-04 13:42:35] Playlist count: 57
+[2023-02-04 13:42:35] Initial UniqueTracks Count: 6431
+[2023-02-04 13:42:47] Sn_WeeklyCharts items: 2850
+[2023-02-04 13:42:47] Adding IsUnique property
+[2023-02-04 13:42:56] Creating Sn_WeeklyCharts
+[2023-02-04 13:42:57] Sn_WeeklyCharts exists: True
+[2023-02-04 13:42:57] Filtering UniqueItems
+[2023-02-04 13:42:57] UniqueItems Count: 219
+[2023-02-04 13:42:57] Final UniqueTracks Count: 6650
+[2023-02-04 13:42:57] Convert Sn_WeeklyCharts to Tsv
+[2023-02-04 13:42:59] End Get-SnSpotter: WeeklyCharts
+[2023-02-11 11:39:42] Start Get-SnSpotter: BulkPlaylist
+[2023-02-11 11:39:42] Playlist count: 197
+[2023-02-11 11:39:42] Initial UniqueTracks Count: 121305
+[2023-02-11 11:39:47] Sn_BulkPlaylist items: 14994
+[2023-02-11 11:39:47] Adding IsNew property
+[2023-02-11 11:39:50] Adding IsUnique property
+[2023-02-11 11:54:43] Creating Sn_BulkPlaylist
+[2023-02-11 11:54:46] Sn_BulkPlaylist exists: True
+[2023-02-11 11:54:47] Filtering UniqueItems
+[2023-02-11 11:54:48] UniqueItems Count: 1227
+[2023-02-11 11:54:48] Final UniqueTracks Count: 122532
+[2023-02-11 11:54:50] Convert Sn_BulkPlaylist to Tsv
+[2023-02-11 11:54:56] End Get-SnSpotter: BulkPlaylist
+[2023-02-11 11:54:59] Start Get-SnSpotter: MyPlaylist
+[2023-02-11 11:54:59] Playlist count: 78
+[2023-02-11 11:54:59] Initial UniqueTracks Count: 82956
+[2023-02-11 11:55:13] Sn_MyPlaylist items: 7166
+[2023-02-11 11:55:13] Adding IsUnique property
+[2023-02-11 12:00:04] Creating Sn_MyPlaylist
+[2023-02-11 12:00:06] Sn_MyPlaylist exists: True
+[2023-02-11 12:00:06] Filtering UniqueItems
+[2023-02-11 12:00:07] UniqueItems Count: 679
+[2023-02-11 12:00:07] Final UniqueTracks Count: 83635
+[2023-02-11 12:00:08] Convert Sn_MyPlaylist to Tsv
+[2023-02-11 12:00:11] End Get-SnSpotter: MyPlaylist
+[2023-02-11 12:00:12] Making 2023-02-11_MyPlaylist Spotify playlist
+[2023-02-11 12:00:13] Playlist created. Name: 2023-02-11_MyPlaylist; Id: 14rnVTT8Aoqcd7ZdoQylPY
+[2023-02-11 12:00:20] Start Get-SnSpotter: WeeklyCharts
+[2023-02-11 12:00:20] Playlist count: 57
+[2023-02-11 12:00:20] Initial UniqueTracks Count: 6650
+[2023-02-11 12:00:33] Sn_WeeklyCharts items: 2850
+[2023-02-11 12:00:33] Adding IsUnique property
+[2023-02-11 12:00:43] Creating Sn_WeeklyCharts
+[2023-02-11 12:00:44] Sn_WeeklyCharts exists: True
+[2023-02-11 12:00:44] Filtering UniqueItems
+[2023-02-11 12:00:44] UniqueItems Count: 161
+[2023-02-11 12:00:44] Final UniqueTracks Count: 6811
+[2023-02-11 12:00:44] Convert Sn_WeeklyCharts to Tsv
+[2023-02-11 12:00:46] End Get-SnSpotter: WeeklyCharts
+[2023-02-18 09:45:58] Start Get-SnSpotter: BulkPlaylist
+[2023-02-18 09:45:58] Playlist count: 197
+[2023-02-18 09:45:58] Initial UniqueTracks Count: 122532
+[2023-02-18 09:46:03] Sn_BulkPlaylist items: 14977
+[2023-02-18 09:46:03] Adding IsNew property
+[2023-02-18 09:46:06] Adding IsUnique property
+[2023-02-18 10:00:01] Creating Sn_BulkPlaylist
+[2023-02-18 10:00:04] Sn_BulkPlaylist exists: True
+[2023-02-18 10:00:06] Filtering UniqueItems
+[2023-02-18 10:00:06] UniqueItems Count: 1273
+[2023-02-18 10:00:07] Final UniqueTracks Count: 123805
+[2023-02-18 10:00:08] Convert Sn_BulkPlaylist to Tsv
+[2023-02-18 10:00:14] End Get-SnSpotter: BulkPlaylist
+[2023-02-18 10:00:17] Start Get-SnSpotter: MyPlaylist
+[2023-02-18 10:00:17] Playlist count: 78
+[2023-02-18 10:00:17] Initial UniqueTracks Count: 83635
+[2023-02-18 10:00:30] Sn_MyPlaylist items: 7179
+[2023-02-18 10:00:30] Adding IsUnique property
+[2023-02-18 10:05:04] Creating Sn_MyPlaylist
+[2023-02-18 10:05:06] Sn_MyPlaylist exists: True
+[2023-02-18 10:05:06] Filtering UniqueItems
+[2023-02-18 10:05:07] UniqueItems Count: 726
+[2023-02-18 10:05:07] Final UniqueTracks Count: 84361
+[2023-02-18 10:05:08] Convert Sn_MyPlaylist to Tsv
+[2023-02-18 10:05:11] End Get-SnSpotter: MyPlaylist
+[2023-02-18 10:05:11] Making 2023-02-18_MyPlaylist Spotify playlist
+[2023-02-18 10:05:12] Playlist created. Name: 2023-02-18_MyPlaylist; Id: 0vlpu4hkSGCdhFPNqxrlpz
+[2023-02-18 10:05:20] Start Get-SnSpotter: WeeklyCharts
+[2023-02-18 10:05:20] Playlist count: 57
+[2023-02-18 10:05:20] Initial UniqueTracks Count: 6811
+[2023-02-18 10:05:32] Sn_WeeklyCharts items: 2850
+[2023-02-18 10:05:32] Adding IsUnique property
+[2023-02-18 10:05:41] Creating Sn_WeeklyCharts
+[2023-02-18 10:05:42] Sn_WeeklyCharts exists: True
+[2023-02-18 10:05:42] Filtering UniqueItems
+[2023-02-18 10:05:42] UniqueItems Count: 174
+[2023-02-18 10:05:42] Final UniqueTracks Count: 6985
+[2023-02-18 10:05:42] Convert Sn_WeeklyCharts to Tsv
+[2023-02-18 10:05:44] End Get-SnSpotter: WeeklyCharts
+[2023-02-28 21:56:45] Start Get-SnSpotter: BulkPlaylist
+[2023-02-28 21:56:45] Playlist count: 197
+[2023-02-28 21:56:45] Initial UniqueTracks Count: 123805
+[2023-02-28 21:56:51] Sn_BulkPlaylist items: 14856
+[2023-02-28 21:56:51] Adding IsNew property
+[2023-02-28 21:56:55] Adding IsUnique property
+[2023-02-28 22:13:21] Creating Sn_BulkPlaylist
+[2023-02-28 22:13:25] Sn_BulkPlaylist exists: True
+[2023-02-28 22:13:27] Filtering UniqueItems
+[2023-02-28 22:13:28] UniqueItems Count: 1392
+[2023-02-28 22:13:28] Final UniqueTracks Count: 125197
+[2023-02-28 22:13:30] Convert Sn_BulkPlaylist to Tsv
+[2023-02-28 22:13:40] End Get-SnSpotter: BulkPlaylist
+[2023-02-28 22:13:43] Start Get-SnSpotter: MyPlaylist
+[2023-02-28 22:13:43] Playlist count: 78
+[2023-02-28 22:13:43] Initial UniqueTracks Count: 84361
+[2023-02-28 22:14:01] Sn_MyPlaylist items: 7199
+[2023-02-28 22:14:01] Adding IsUnique property
+[2023-02-28 22:19:23] Creating Sn_MyPlaylist
+[2023-02-28 22:19:25] Sn_MyPlaylist exists: True
+[2023-02-28 22:19:25] Filtering UniqueItems
+[2023-02-28 22:19:26] UniqueItems Count: 738
+[2023-02-28 22:19:26] Final UniqueTracks Count: 85099
+[2023-02-28 22:19:27] Convert Sn_MyPlaylist to Tsv
+[2023-02-28 22:19:31] End Get-SnSpotter: MyPlaylist
+[2023-02-28 22:19:32] Making 2023-02-28_MyPlaylist Spotify playlist
+[2023-02-28 22:19:33] Playlist created. Name: 2023-02-28_MyPlaylist; Id: 14FaGHefMSjRZdjxQ9E2gf
+[2023-02-28 22:19:42] Start Get-SnSpotter: WeeklyCharts
+[2023-02-28 22:19:42] Playlist count: 57
+[2023-02-28 22:19:42] Initial UniqueTracks Count: 6985
+[2023-02-28 22:19:57] Sn_WeeklyCharts items: 2850
+[2023-02-28 22:19:57] Adding IsUnique property
+[2023-02-28 22:20:07] Creating Sn_WeeklyCharts
+[2023-02-28 22:20:08] Sn_WeeklyCharts exists: True
+[2023-02-28 22:20:09] Filtering UniqueItems
+[2023-02-28 22:20:09] UniqueItems Count: 177
+[2023-02-28 22:20:09] Final UniqueTracks Count: 7162
+[2023-02-28 22:20:09] Convert Sn_WeeklyCharts to Tsv
+[2023-02-28 22:20:11] End Get-SnSpotter: WeeklyCharts
+[2023-03-04 11:54:58] Start Get-SnSpotter: BulkPlaylist
+[2023-03-04 11:54:58] Playlist count: 197
+[2023-03-04 11:54:58] Initial UniqueTracks Count: 125197
+[2023-03-04 11:55:04] Sn_BulkPlaylist items: 15032
+[2023-03-04 11:55:04] Adding IsNew property
+[2023-03-04 11:55:06] WorshipNow[37i9dQZF1DWVYgpMbMPJMz] not in 2023-02-28_Sn_BulkPlaylist.json
+[2023-03-04 11:55:08] Adding IsUnique property
+[2023-03-04 12:11:32] Creating Sn_BulkPlaylist
+[2023-03-04 12:11:36] Sn_BulkPlaylist exists: True
+[2023-03-04 12:11:39] Filtering UniqueItems
+[2023-03-04 12:11:40] UniqueItems Count: 1278
+[2023-03-04 12:11:40] Final UniqueTracks Count: 126475
+[2023-03-04 12:11:42] Convert Sn_BulkPlaylist to Tsv
+[2023-03-04 12:11:52] End Get-SnSpotter: BulkPlaylist
+[2023-03-04 12:11:55] Start Get-SnSpotter: MyPlaylist
+[2023-03-04 12:11:55] Playlist count: 78
+[2023-03-04 12:11:55] Initial UniqueTracks Count: 85099
+[2023-03-04 12:12:15] Sn_MyPlaylist items: 7200
+[2023-03-04 12:12:15] Adding IsUnique property
+[2023-03-04 12:18:10] Creating Sn_MyPlaylist
+[2023-03-04 12:18:11] Sn_MyPlaylist exists: True
+[2023-03-04 12:18:12] Filtering UniqueItems
+[2023-03-04 12:18:13] UniqueItems Count: 772
+[2023-03-04 12:18:13] Final UniqueTracks Count: 85871
+[2023-03-04 12:18:14] Convert Sn_MyPlaylist to Tsv
+[2023-03-04 12:18:19] End Get-SnSpotter: MyPlaylist
+[2023-03-04 12:18:20] Making 2023-03-04_MyPlaylist Spotify playlist
+[2023-03-04 12:18:20] Playlist created. Name: 2023-03-04_MyPlaylist; Id: 1iQGRN4U6yrON1RsNoWefO
+[2023-03-04 12:18:27] Start Get-SnSpotter: WeeklyCharts
+[2023-03-04 12:18:27] Playlist count: 57
+[2023-03-04 12:18:27] Initial UniqueTracks Count: 7162
+[2023-03-04 12:18:45] Sn_WeeklyCharts items: 2850
+[2023-03-04 12:18:45] Adding IsUnique property
+[2023-03-04 12:18:58] Creating Sn_WeeklyCharts
+[2023-03-04 12:18:59] Sn_WeeklyCharts exists: True
+[2023-03-04 12:19:00] Filtering UniqueItems
+[2023-03-04 12:19:00] UniqueItems Count: 155
+[2023-03-04 12:19:00] Final UniqueTracks Count: 7317
+[2023-03-04 12:19:00] Convert Sn_WeeklyCharts to Tsv
+[2023-03-04 12:19:02] End Get-SnSpotter: WeeklyCharts
+[2023-03-11 12:24:58] Start Get-SnSpotter: BulkPlaylist
+[2023-03-11 12:24:58] Playlist count: 197
+[2023-03-11 12:24:58] Initial UniqueTracks Count: 126475
+[2023-03-11 12:25:03] Sn_BulkPlaylist items: 15097
+[2023-03-11 12:25:03] Adding IsNew property
+[2023-03-11 12:25:04] WorshipNow[37i9dQZF1DWVYgpMbMPJMz] not in 2023-02-28_Sn_BulkPlaylist.json
+[2023-03-11 12:25:05] Adding IsUnique property
+[2023-03-11 12:39:48] Creating Sn_BulkPlaylist
+[2023-03-11 12:39:50] Sn_BulkPlaylist exists: True
+[2023-03-11 12:39:52] Filtering UniqueItems
+[2023-03-11 12:39:52] UniqueItems Count: 1216
+[2023-03-11 12:39:53] Final UniqueTracks Count: 127691
+[2023-03-11 12:39:54] Convert Sn_BulkPlaylist to Tsv
+[2023-03-11 12:40:00] End Get-SnSpotter: BulkPlaylist
+[2023-03-11 12:40:03] Start Get-SnSpotter: MyPlaylist
+[2023-03-11 12:40:03] Playlist count: 78
+[2023-03-11 12:40:03] Initial UniqueTracks Count: 85871
+[2023-03-11 12:40:17] Sn_MyPlaylist items: 7197
+[2023-03-11 12:40:17] Adding IsUnique property
+[2023-03-11 12:45:05] Creating Sn_MyPlaylist
+[2023-03-11 12:45:06] Sn_MyPlaylist exists: True
+[2023-03-11 12:45:06] Filtering UniqueItems
+[2023-03-11 12:45:07] UniqueItems Count: 649
+[2023-03-11 12:45:07] Final UniqueTracks Count: 86520
+[2023-03-11 12:45:08] Convert Sn_MyPlaylist to Tsv
+[2023-03-11 12:45:11] End Get-SnSpotter: MyPlaylist
+[2023-03-11 12:45:12] Making 2023-03-11_MyPlaylist Spotify playlist
+[2023-03-11 12:45:12] Playlist created. Name: 2023-03-11_MyPlaylist; Id: 3uT7CrbOjdj8oUMTmK1xlu
+[2023-03-11 12:45:19] Start Get-SnSpotter: WeeklyCharts
+[2023-03-11 12:45:19] Playlist count: 57
+[2023-03-11 12:45:19] Initial UniqueTracks Count: 7317
+[2023-03-11 12:45:32] Sn_WeeklyCharts items: 2850
+[2023-03-11 12:45:32] Adding IsUnique property
+[2023-03-11 12:45:42] Creating Sn_WeeklyCharts
+[2023-03-11 12:45:43] Sn_WeeklyCharts exists: True
+[2023-03-11 12:45:43] Filtering UniqueItems
+[2023-03-11 12:45:43] UniqueItems Count: 200
+[2023-03-11 12:45:43] Final UniqueTracks Count: 7517
+[2023-03-11 12:45:43] Convert Sn_WeeklyCharts to Tsv
+[2023-03-11 12:45:45] End Get-SnSpotter: WeeklyCharts
